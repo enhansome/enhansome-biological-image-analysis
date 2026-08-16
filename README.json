@@ -14,7 +14,7 @@
             "last_commit": "2026-08-15T07:26:55Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90449
+            "stars": 90456
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T16:13:02Z",
+            "last_commit": "2026-08-16T09:57:16Z",
             "owner": "scikit-image",
             "repo": "scikit-image",
             "stars": 6573
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T05:36:37Z",
+            "last_commit": "2026-08-16T17:33:40Z",
             "owner": "Slicer",
             "repo": "Slicer",
             "stars": 2581
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-07T14:51:50Z",
             "owner": "imagej",
             "repo": "imagej2",
-            "stars": 1395
+            "stars": 1396
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-18T04:02:29Z",
             "owner": "fiji",
             "repo": "fiji",
-            "stars": 1007
+            "stars": 1008
           }
         },
         {
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:43:27Z",
+            "last_commit": "2026-08-16T18:53:36Z",
             "owner": "SchmollerLab",
             "repo": "Cell_ACDC",
             "stars": 200
@@ -216,7 +216,7 @@
             "last_commit": "2026-06-14T13:21:03Z",
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2311
+            "stars": 2310
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-10T21:16:19Z",
             "owner": "dcjones",
             "repo": "proseg",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-06-30T12:55:30Z",
             "owner": "cafferychen777",
             "repo": "flashdeconv",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -614,7 +614,7 @@
             "last_commit": "2026-08-02T21:54:19Z",
             "owner": "flatironinstitute",
             "repo": "CaImAn",
-            "stars": 729
+            "stars": 730
           }
         },
         {
@@ -625,7 +625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T15:28:39Z",
+            "last_commit": "2026-08-16T17:26:19Z",
             "owner": "brainglobe",
             "repo": "brainrender",
             "stars": 665
@@ -639,7 +639,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:00:00Z",
+            "last_commit": "2026-08-16T17:27:45Z",
             "owner": "brainglobe",
             "repo": "cellfinder",
             "stars": 231
@@ -667,7 +667,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:12:14Z",
+            "last_commit": "2026-08-16T19:00:13Z",
             "owner": "brainglobe",
             "repo": "brainglobe-atlasapi",
             "stars": 183
@@ -695,7 +695,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-04T09:08:46Z",
+            "last_commit": "2026-08-16T17:25:58Z",
             "owner": "brainglobe",
             "repo": "brainreg",
             "stars": 149
@@ -709,7 +709,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:48:41Z",
+            "last_commit": "2026-08-16T03:22:17Z",
             "owner": "axondeepseg",
             "repo": "axondeepseg",
             "stars": 127
@@ -751,7 +751,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T01:48:33Z",
+            "last_commit": "2026-08-16T03:13:07Z",
             "owner": "morphonets",
             "repo": "SNT",
             "stars": 60
@@ -830,7 +830,7 @@
             "last_commit": "2026-07-03T09:27:16Z",
             "owner": "Abe404",
             "repo": "root_painter",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -979,7 +979,7 @@
           "repo_info": {
             "archived": false,
             "language": "MATLAB",
-            "last_commit": "2026-08-11T15:18:56Z",
+            "last_commit": "2026-08-15T21:56:44Z",
             "owner": "jries",
             "repo": "SMAP",
             "stars": 84
@@ -1134,7 +1134,7 @@
             "last_commit": "2026-08-13T17:55:24Z",
             "owner": "royerlab",
             "repo": "ultrack",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -1424,7 +1424,7 @@
             "last_commit": "2026-07-10T12:07:49Z",
             "owner": "zeiss-microscopy",
             "repo": "OAD",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -1617,7 +1617,7 @@
           "repo_info": {
             "archived": false,
             "language": "MATLAB",
-            "last_commit": "2026-08-15T18:22:33Z",
+            "last_commit": "2026-08-16T09:38:23Z",
             "owner": "gcharvin",
             "repo": "DetecDiv",
             "stars": 9
@@ -1681,7 +1681,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:01:37.637Z",
+    "last_updated": "2026-08-16T19:00:48.753Z",
     "original_repository": "hallvaaw/awesome-biological-image-analysis",
     "original_repository_sha": "c1a3c6ddef25c1906e61a6496d7fcf7c89e115ca",
     "enhanced_repository": "enhansome/enhansome-biological-image-analysis",
