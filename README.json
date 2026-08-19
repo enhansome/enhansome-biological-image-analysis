@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5108051,
             "language": "C++",
-            "last_commit": "2026-08-18T16:15:05Z",
+            "last_commit": "2026-08-19T11:24:19Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90488
+            "stars": 90496
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2014929,
             "language": "Python",
             "last_commit": "2026-08-17T11:07:09Z",
             "owner": "scikit-image",
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144513571,
             "language": "Python",
-            "last_commit": "2026-08-18T15:55:30Z",
+            "last_commit": "2026-08-19T12:10:21Z",
             "owner": "napari",
             "repo": "napari",
             "stars": 2735
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246939908,
             "language": "C++",
             "last_commit": "2026-08-18T04:33:51Z",
             "owner": "Slicer",
             "repo": "Slicer",
-            "stars": 2581
+            "stars": 2584
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3276212,
             "language": "Java",
             "last_commit": "2026-08-07T14:51:50Z",
             "owner": "imagej",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77593023,
             "language": "Python",
             "last_commit": "2024-02-21T16:32:43Z",
             "owner": "Image-Py",
@@ -94,8 +100,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1571820,
             "language": "Python",
-            "last_commit": "2026-08-18T01:42:01Z",
+            "last_commit": "2026-08-18T22:10:26Z",
             "owner": "CellProfiler",
             "repo": "CellProfiler",
             "stars": 1133
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1611777,
             "language": "Shell",
             "last_commit": "2026-07-18T04:02:29Z",
             "owner": "fiji",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2136580,
             "language": "Java",
             "last_commit": "2026-07-22T16:14:44Z",
             "owner": "imagej",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4262493,
             "language": "Python",
             "last_commit": "2026-08-07T13:30:04Z",
             "owner": "ilastik",
@@ -150,8 +160,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342303492,
             "language": "Python",
-            "last_commit": "2026-08-18T15:02:48Z",
+            "last_commit": "2026-08-19T11:14:41Z",
             "owner": "SchmollerLab",
             "repo": "Cell_ACDC",
             "stars": 200
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2750815,
             "language": "Python",
             "last_commit": "2025-07-21T17:11:34Z",
             "owner": "CellProfiler",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224552047,
             "language": "Python",
             "last_commit": "2026-08-13T04:47:15Z",
             "owner": "python-microscopy",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36383640,
             "language": "Python",
             "last_commit": "2026-03-04T16:01:04Z",
             "owner": "flika-org",
@@ -203,7 +217,7 @@
       "title": "General image analysis software"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -212,11 +226,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237686847,
             "language": "Python",
             "last_commit": "2026-06-14T13:21:03Z",
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2314
+            "stars": 2318
           }
         },
         {
@@ -226,11 +241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138786192,
             "language": "Python",
             "last_commit": "2026-02-14T16:16:18Z",
             "owner": "stardist",
             "repo": "stardist",
-            "stars": 1252
+            "stars": 1253
           }
         },
         {
@@ -240,11 +256,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160665326,
             "language": "Python",
             "last_commit": "2023-10-27T11:42:36Z",
             "owner": "vqdang",
             "repo": "hover_net",
-            "stars": 736
+            "stars": 737
           }
         },
         {
@@ -254,8 +271,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635751761,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T16:16:36Z",
+            "last_commit": "2026-08-19T11:59:50Z",
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
             "stars": 712
@@ -268,11 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289306932,
             "language": "Python",
-            "last_commit": "2026-08-18T16:21:19Z",
+            "last_commit": "2026-08-19T09:56:53Z",
             "owner": "scverse",
             "repo": "squidpy",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163124274,
             "language": "Python",
             "last_commit": "2024-06-07T15:22:44Z",
             "owner": "BMIRDS",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133702954,
             "language": "Python",
             "last_commit": "2026-06-04T01:21:08Z",
             "owner": "vanvalenlab",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141175642,
             "language": "Python",
             "last_commit": "2026-08-10T18:44:49Z",
             "owner": "MouseLand",
@@ -324,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 656166567,
             "language": "Python",
             "last_commit": "2025-07-23T06:10:25Z",
             "owner": "TIO-IKIM",
             "repo": "CellViT",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 96726940,
             "language": "Python",
             "last_commit": "2022-01-04T12:26:08Z",
             "owner": "Borda",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292764302,
             "language": "Python",
             "last_commit": "2025-06-24T07:57:00Z",
             "owner": "pycroscopy",
@@ -366,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 757751896,
             "language": "Python",
             "last_commit": "2026-06-04T06:44:21Z",
             "owner": "vanvalenlab",
             "repo": "cellSAM",
-            "stars": 210
+            "stars": 211
           }
         },
         {
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660312190,
             "language": "Rust",
             "last_commit": "2026-08-10T21:16:19Z",
             "owner": "dcjones",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18406781,
             "language": "Java",
             "last_commit": "2024-09-28T01:03:37Z",
             "owner": "fiji",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16696603,
             "language": "Java",
             "last_commit": "2026-07-30T11:07:03Z",
             "owner": "ijpb",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164378401,
             "language": "Jupyter Notebook",
             "last_commit": "2026-01-07T18:16:11Z",
             "owner": "angelolab",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606151831,
             "language": "Python",
             "last_commit": "2026-05-15T01:01:34Z",
             "owner": "aelefebv",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22993924,
             "language": "R",
             "last_commit": "2024-10-14T22:36:12Z",
             "owner": "aoles",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329296311,
             "language": "Jupyter Notebook",
             "last_commit": "2024-09-29T11:27:15Z",
             "owner": "uhlmanngroup",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626116422,
             "language": "Jupyter Notebook",
             "last_commit": "2024-03-14T16:58:36Z",
             "owner": "mahmoodlab",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241448693,
             "language": "Python",
             "last_commit": "2023-11-24T06:29:59Z",
             "owner": "ziatdinovmax",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166421141,
             "language": "Python",
             "last_commit": "2026-08-17T22:35:39Z",
             "owner": "4DNucleome",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1121218910,
             "language": "Python",
             "last_commit": "2026-07-28T13:55:31Z",
             "owner": "sohmandal",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 505812768,
             "language": "Python",
             "last_commit": "2025-10-08T13:04:14Z",
             "owner": "Sentinal4D",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114934837,
             "language": "Python",
             "last_commit": "2026-06-30T12:55:30Z",
             "owner": "cafferychen777",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337275203,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-07T14:40:37Z",
             "owner": "georgeoshardo",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 722383340,
             "language": null,
             "last_commit": "2024-09-24T08:17:17Z",
             "owner": "JackieZhai",
@@ -587,7 +628,7 @@
       "title": "Image processing and segmentation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -596,11 +637,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59798355,
             "language": "TypeScript",
             "last_commit": "2026-08-14T17:49:42Z",
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1351
+            "stars": 1352
           }
         },
         {
@@ -610,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40307735,
             "language": "Python",
             "last_commit": "2026-08-02T21:54:19Z",
             "owner": "flatironinstitute",
@@ -624,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209513981,
             "language": "Python",
             "last_commit": "2026-08-16T17:26:19Z",
             "owner": "brainglobe",
@@ -638,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234562117,
             "language": "Python",
             "last_commit": "2026-08-16T17:27:45Z",
             "owner": "brainglobe",
@@ -652,8 +697,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178031166,
             "language": "Python",
-            "last_commit": "2026-08-17T06:56:25Z",
+            "last_commit": "2026-08-18T20:46:46Z",
             "owner": "PytorchConnectomics",
             "repo": "pytorch_connectomics",
             "stars": 200
@@ -666,8 +712,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260189665,
             "language": "Python",
-            "last_commit": "2026-08-18T09:18:24Z",
+            "last_commit": "2026-08-19T11:14:35Z",
             "owner": "brainglobe",
             "repo": "brainglobe-atlasapi",
             "stars": 184
@@ -680,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98333149,
             "language": "Python",
             "last_commit": "2026-08-13T01:17:15Z",
             "owner": "seung-lab",
@@ -694,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267067901,
             "language": "Python",
             "last_commit": "2026-08-18T12:07:30Z",
             "owner": "brainglobe",
@@ -708,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69257805,
             "language": "Python",
             "last_commit": "2026-08-16T03:22:17Z",
             "owner": "axondeepseg",
@@ -722,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45200355,
             "language": "C++",
             "last_commit": "2021-07-16T07:40:36Z",
             "owner": "tractatus",
@@ -736,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15578625,
             "language": "R",
             "last_commit": "2026-07-30T22:27:18Z",
             "owner": "natverse",
@@ -750,8 +802,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221831995,
             "language": "Java",
-            "last_commit": "2026-08-17T04:53:45Z",
+            "last_commit": "2026-08-19T11:55:38Z",
             "owner": "morphonets",
             "repo": "SNT",
             "stars": 60
@@ -764,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211824566,
             "language": "Python",
             "last_commit": "2026-06-18T19:09:36Z",
             "owner": "albert597",
@@ -778,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286490250,
             "language": "ImageJ Macro",
             "last_commit": "2023-05-24T13:12:55Z",
             "owner": "ElisabethKugler",
@@ -789,7 +844,7 @@
       "title": "Neuroscience"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -798,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17755890,
             "language": "Python",
             "last_commit": "2026-08-18T18:12:46Z",
             "owner": "danforthcenter",
@@ -812,11 +868,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216003952,
             "language": "Python",
             "last_commit": "2026-08-03T20:30:43Z",
             "owner": "kreshuklab",
             "repo": "panseg",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -826,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256066339,
             "language": "Python",
             "last_commit": "2026-07-03T09:27:16Z",
             "owner": "Abe404",
@@ -840,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240287274,
             "language": "Nextflow",
             "last_commit": "2025-05-26T14:10:45Z",
             "owner": "Gregor-Mendel-Institute",
@@ -854,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168380552,
             "language": "C++",
             "last_commit": "2025-10-21T20:22:00Z",
             "owner": "predictivephenomics",
@@ -868,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156551063,
             "language": "C++",
             "last_commit": "2022-04-28T14:59:07Z",
             "owner": "jberry47",
@@ -879,7 +940,7 @@
       "title": "Plant science"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -888,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 751952101,
             "language": "Python",
             "last_commit": "2026-06-08T15:42:01Z",
             "owner": "weigertlab",
@@ -902,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162127052,
             "language": "Python",
             "last_commit": "2023-10-31T13:49:32Z",
             "owner": "fish-quant",
@@ -916,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105794560,
             "language": "Java",
             "last_commit": "2025-02-04T15:48:48Z",
             "owner": "PreibischLab",
@@ -930,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114349309,
             "language": "Python",
             "last_commit": "2023-10-03T22:36:16Z",
             "owner": "cbib",
@@ -941,7 +1006,7 @@
       "title": "Fluoresence in situ hybridization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -950,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72086122,
             "language": "Python",
             "last_commit": "2026-08-09T07:32:49Z",
             "owner": "jungmannlab",
@@ -964,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34996988,
             "language": "Java",
             "last_commit": "2018-09-06T13:13:53Z",
             "owner": "zitmen",
@@ -978,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155880031,
             "language": "MATLAB",
             "last_commit": "2026-08-15T21:56:44Z",
             "owner": "jries",
@@ -992,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125439537,
             "language": "ImageJ Macro",
             "last_commit": "2025-01-07T12:43:10Z",
             "owner": "emx77",
@@ -1006,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394599605,
             "language": "ImageJ Macro",
             "last_commit": "2025-04-23T09:23:37Z",
             "owner": "lukmuk",
@@ -1020,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433893739,
             "language": "Python",
             "last_commit": "2023-02-25T22:56:09Z",
             "owner": "volume-em",
@@ -1031,7 +1102,7 @@
       "title": "Electron and super resolution microscopy"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1040,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195560510,
             "language": "Python",
             "last_commit": "2024-02-05T19:24:49Z",
             "owner": "ocampor",
@@ -1054,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136194704,
             "language": "Python",
             "last_commit": "2025-12-08T20:42:53Z",
             "owner": "CSBDeep",
@@ -1068,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96235902,
             "language": "Python",
             "last_commit": "2026-08-03T21:19:06Z",
             "owner": "tlambert03",
@@ -1082,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96813627,
             "language": "Python",
             "last_commit": "2020-01-15T20:22:29Z",
             "owner": "HuanglabPurdue",
@@ -1096,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19225332,
             "language": "Scala",
             "last_commit": "2026-03-23T03:47:09Z",
             "owner": "ij-plugins",
@@ -1107,7 +1183,7 @@
       "title": "Image restoration and quality assessment"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1116,8 +1192,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15321451,
             "language": "Java",
-            "last_commit": "2026-08-18T08:30:51Z",
+            "last_commit": "2026-08-18T20:31:22Z",
             "owner": "trackmate-sc",
             "repo": "TrackMate",
             "stars": 238
@@ -1130,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 528592066,
             "language": "Python",
             "last_commit": "2026-08-13T17:55:24Z",
             "owner": "royerlab",
@@ -1144,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137439282,
             "language": "Jupyter Notebook",
             "last_commit": "2020-09-15T17:30:34Z",
             "owner": "oist",
@@ -1158,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453722113,
             "language": "R",
             "last_commit": "2026-03-07T17:12:18Z",
             "owner": "quantixed",
@@ -1172,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41031742,
             "language": "IGOR Pro",
             "last_commit": "2021-08-20T10:47:04Z",
             "owner": "quantixed",
@@ -1186,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79904460,
             "language": "Java",
             "last_commit": "2023-11-27T23:11:00Z",
             "owner": "CellDynamics",
@@ -1197,7 +1279,7 @@
       "title": "Cell migration and particle tracking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1206,6 +1288,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199872628,
             "language": "Python",
             "last_commit": "2026-08-14T02:49:27Z",
             "owner": "Dana-Farber-AIOS",
@@ -1220,6 +1303,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196004095,
             "language": "C++",
             "last_commit": "2024-06-14T22:59:49Z",
             "owner": "AICAN-Research",
@@ -1234,6 +1318,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277534200,
             "language": "Python",
             "last_commit": "2026-04-30T08:28:33Z",
             "owner": "Bayer-Group",
@@ -1248,6 +1333,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228461778,
             "language": "HTML",
             "last_commit": "2024-05-08T18:52:37Z",
             "owner": "labsyspharm",
@@ -1262,6 +1348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364626048,
             "language": "Python",
             "last_commit": "2022-02-18T12:42:01Z",
             "owner": "HistoCleanQUB",
@@ -1273,7 +1360,7 @@
       "title": "Pathology"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1282,6 +1369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214950483,
             "language": "Go",
             "last_commit": "2020-02-06T05:58:55Z",
             "owner": "Olament",
@@ -1296,6 +1384,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186534594,
             "language": "HTML",
             "last_commit": "2022-07-29T07:33:45Z",
             "owner": "hsueh-lab",
@@ -1307,7 +1396,7 @@
       "title": "Mycology"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1316,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251119584,
             "language": "Python",
             "last_commit": "2026-01-14T10:23:09Z",
             "owner": "rahi-lab",
@@ -1330,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52201279,
             "language": "Python",
             "last_commit": "2023-12-22T23:05:33Z",
             "owner": "rraadd88",
@@ -1341,7 +1432,7 @@
       "title": "Yeast imaging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1350,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1069177,
             "language": "C++",
             "last_commit": "2026-08-18T07:02:12Z",
             "owner": "SimpleITK",
@@ -1364,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239971181,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-29T06:40:09Z",
             "owner": "HenriquesLab",
@@ -1378,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84505424,
             "language": "Python",
             "last_commit": "2026-08-15T17:02:52Z",
             "owner": "adalca",
@@ -1392,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 194131198,
             "language": "Python",
             "last_commit": "2025-12-01T19:17:09Z",
             "owner": "AllenCellModeling",
@@ -1406,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128938343,
             "language": "C++",
             "last_commit": "2023-12-09T00:42:42Z",
             "owner": "CBICA",
@@ -1420,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154986706,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-10T12:07:49Z",
             "owner": "zeiss-microscopy",
@@ -1434,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195106954,
             "language": "Python",
             "last_commit": "2026-08-13T13:16:37Z",
             "owner": "cytomining",
@@ -1448,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68828588,
             "language": "Python",
             "last_commit": "2024-04-08T20:58:26Z",
             "owner": "david-hoffman",
@@ -1462,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81961382,
             "language": "Python",
             "last_commit": "2025-01-15T10:15:32Z",
             "owner": "Open-Science-Tools",
@@ -1476,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109819023,
             "language": "Python",
             "last_commit": "2025-11-13T16:07:56Z",
             "owner": "lens-biophotonics",
@@ -1490,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55132937,
             "language": "Python",
             "last_commit": "2021-05-13T16:17:30Z",
             "owner": "05dirnbe",
@@ -1504,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 248818912,
             "language": "Python",
             "last_commit": "2025-10-15T22:23:01Z",
             "owner": "AllenCellModeling",
@@ -1518,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127795855,
             "language": "Python",
             "last_commit": "2024-02-03T22:20:10Z",
             "owner": "rshkarin",
@@ -1532,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54976745,
             "language": "Java",
             "last_commit": "2026-06-28T15:19:23Z",
             "owner": "bonej-org",
@@ -1546,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92830488,
             "language": "Python",
             "last_commit": "2021-07-22T08:43:11Z",
             "owner": "Jhsmit",
@@ -1560,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328708769,
             "language": "Java",
             "last_commit": "2025-11-06T19:19:23Z",
             "owner": "UU-cellbiology",
@@ -1574,6 +1681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125508934,
             "language": "Java",
             "last_commit": "2026-08-07T13:51:25Z",
             "owner": "mianalysis",
@@ -1588,6 +1696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278071833,
             "language": "Python",
             "last_commit": "2025-01-17T16:33:46Z",
             "owner": "davidbhr",
@@ -1602,6 +1711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49161267,
             "language": "Python",
             "last_commit": "2024-10-10T20:37:18Z",
             "owner": "cytomining",
@@ -1616,6 +1726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248246347,
             "language": "MATLAB",
             "last_commit": "2026-08-17T15:23:37Z",
             "owner": "gcharvin",
@@ -1630,6 +1741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72715497,
             "language": "HTML",
             "last_commit": "2021-11-17T13:54:06Z",
             "owner": "spatialsimulator",
@@ -1641,48 +1753,53 @@
       "title": "Other"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Footnotes"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "OpenMicroscopy",
-          "description": "Non-comprehensive list of projects and resources related to open microscopy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T09:27:36Z",
-            "owner": "HohlbeinLab",
-            "repo": "OpenMicroscopy",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cytodata",
-          "description": "A curated list of awesome cytodata resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-11-15T19:00:07Z",
-            "owner": "cytodata",
-            "repo": "awesome-cytodata",
-            "stars": 94
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenMicroscopy",
+              "description": "Non-comprehensive list of projects and resources related to open microscopy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411205164,
+                "language": "Python",
+                "last_commit": "2026-07-23T09:27:36Z",
+                "owner": "HohlbeinLab",
+                "repo": "OpenMicroscopy",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cytodata",
+              "description": "A curated list of awesome cytodata resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153829399,
+                "language": null,
+                "last_commit": "2023-11-15T19:00:07Z",
+                "owner": "cytodata",
+                "repo": "awesome-cytodata",
+                "stars": 94
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Similar lists and repositories"
         }
       ],
-      "title": "Similar lists and repositories"
+      "title": "Footnotes"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:15:17.067Z",
+    "last_updated": "2026-08-19T12:16:52.697Z",
     "original_repository": "hallvaaw/awesome-biological-image-analysis",
+    "original_repository_id": 472116111,
     "original_repository_sha": "c1a3c6ddef25c1906e61a6496d7fcf7c89e115ca",
     "enhanced_repository": "enhansome/enhansome-biological-image-analysis",
     "enhanced_repository_description": null,
