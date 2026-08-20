@@ -12,10 +12,10 @@
             "archived": false,
             "id": 5108051,
             "language": "C++",
-            "last_commit": "2026-08-19T15:15:54Z",
+            "last_commit": "2026-08-20T10:59:11Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90504
+            "stars": 90518
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T11:07:09Z",
             "owner": "scikit-image",
             "repo": "scikit-image",
-            "stars": 6572
+            "stars": 6573
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 144513571,
             "language": "Python",
-            "last_commit": "2026-08-19T18:21:10Z",
+            "last_commit": "2026-08-19T21:12:23Z",
             "owner": "napari",
             "repo": "napari",
             "stars": 2735
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-18T04:33:51Z",
             "owner": "Slicer",
             "repo": "Slicer",
-            "stars": 2585
+            "stars": 2588
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 1571820,
             "language": "Python",
-            "last_commit": "2026-08-18T22:10:26Z",
+            "last_commit": "2026-08-19T22:12:52Z",
             "owner": "CellProfiler",
             "repo": "CellProfiler",
             "stars": 1133
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-18T04:02:29Z",
             "owner": "fiji",
             "repo": "fiji",
-            "stars": 1009
+            "stars": 1010
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-07-22T16:14:44Z",
             "owner": "imagej",
             "repo": "ImageJ",
-            "stars": 779
+            "stars": 780
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-06-14T13:21:03Z",
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2319
+            "stars": 2325
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 635751761,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T17:10:09Z",
+            "last_commit": "2026-08-20T14:47:24Z",
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
             "stars": 712
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 289306932,
             "language": "Python",
-            "last_commit": "2026-08-19T14:46:34Z",
+            "last_commit": "2026-08-20T15:36:28Z",
             "owner": "scverse",
             "repo": "squidpy",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-06-04T06:44:21Z",
             "owner": "vanvalenlab",
             "repo": "cellSAM",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -416,6 +416,21 @@
         },
         {
           "node_type": "item",
+          "title": "MorpholibJ",
+          "description": "Collection of mathematical morphology methods and plugins for ImageJ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16696603,
+            "language": "Java",
+            "last_commit": "2026-07-30T11:07:03Z",
+            "owner": "ijpb",
+            "repo": "MorphoLibJ",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Trainable Weka Segmentation",
           "description": "Fiji plugin and library that combines a collection of machine learning algorithms with a set of selected image features to produce pixel-based segmentations.",
           "children": [],
@@ -431,21 +446,6 @@
         },
         {
           "node_type": "item",
-          "title": "MorpholibJ",
-          "description": "Collection of mathematical morphology methods and plugins for ImageJ.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 16696603,
-            "language": "Java",
-            "last_commit": "2026-07-30T11:07:03Z",
-            "owner": "ijpb",
-            "repo": "MorphoLibJ",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Ark-Analysis",
           "description": "A pipeline toolbox for analyzing multiplexed imaging data.",
           "children": [],
@@ -453,7 +453,7 @@
             "archived": false,
             "id": 164378401,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-01-07T18:16:11Z",
+            "last_commit": "2026-08-19T21:49:12Z",
             "owner": "angelolab",
             "repo": "ark-analysis",
             "stars": 108
@@ -543,7 +543,7 @@
             "archived": false,
             "id": 166421141,
             "language": "Python",
-            "last_commit": "2026-08-17T22:35:39Z",
+            "last_commit": "2026-08-19T20:54:26Z",
             "owner": "4DNucleome",
             "repo": "PartSeg",
             "stars": 37
@@ -642,7 +642,7 @@
             "last_commit": "2026-08-14T17:49:42Z",
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1352
+            "stars": 1353
           }
         },
         {
@@ -804,7 +804,7 @@
             "archived": false,
             "id": 221831995,
             "language": "Java",
-            "last_commit": "2026-08-19T11:55:38Z",
+            "last_commit": "2026-08-20T13:26:35Z",
             "owner": "morphonets",
             "repo": "SNT",
             "stars": 60
@@ -1017,10 +1017,10 @@
             "archived": false,
             "id": 72086122,
             "language": "Python",
-            "last_commit": "2026-08-09T07:32:49Z",
+            "last_commit": "2026-08-20T09:06:47Z",
             "owner": "jungmannlab",
             "repo": "picasso",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2023-02-25T22:56:09Z",
             "owner": "volume-em",
             "repo": "empanada",
-            "stars": 3
+            "stars": 4
           }
         }
       ],
@@ -1194,7 +1194,7 @@
             "archived": false,
             "id": 15321451,
             "language": "Java",
-            "last_commit": "2026-08-18T20:31:22Z",
+            "last_commit": "2026-08-20T15:49:36Z",
             "owner": "trackmate-sc",
             "repo": "TrackMate",
             "stars": 238
@@ -1443,7 +1443,7 @@
             "archived": false,
             "id": 1069177,
             "language": "C++",
-            "last_commit": "2026-08-19T16:59:40Z",
+            "last_commit": "2026-08-20T07:04:31Z",
             "owner": "SimpleITK",
             "repo": "SimpleITK",
             "stars": 1082
@@ -1473,7 +1473,7 @@
             "archived": false,
             "id": 84505424,
             "language": "Python",
-            "last_commit": "2026-08-15T17:02:52Z",
+            "last_commit": "2026-08-20T15:54:52Z",
             "owner": "adalca",
             "repo": "neurite",
             "stars": 375
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:06:29.726Z",
+    "last_updated": "2026-08-20T19:17:55.995Z",
     "original_repository": "hallvaaw/awesome-biological-image-analysis",
     "original_repository_id": 472116111,
     "original_repository_sha": "c1a3c6ddef25c1906e61a6496d7fcf7c89e115ca",
