@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T12:06:23Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90577
+            "stars": 90578
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 144513571,
             "language": "Python",
-            "last_commit": "2026-08-21T08:03:56Z",
+            "last_commit": "2026-08-24T18:49:34Z",
             "owner": "napari",
             "repo": "napari",
-            "stars": 2738
+            "stars": 2739
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 342303492,
             "language": "Python",
-            "last_commit": "2026-08-24T12:53:22Z",
+            "last_commit": "2026-08-24T16:36:19Z",
             "owner": "SchmollerLab",
             "repo": "Cell_ACDC",
             "stars": 200
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 635751761,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T23:54:46Z",
+            "last_commit": "2026-08-24T18:21:30Z",
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
             "stars": 713
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 289306932,
             "language": "Python",
-            "last_commit": "2026-08-22T22:04:59Z",
+            "last_commit": "2026-08-24T19:03:10Z",
             "owner": "scverse",
             "repo": "squidpy",
             "stars": 593
@@ -699,7 +699,7 @@
             "archived": false,
             "id": 178031166,
             "language": "Python",
-            "last_commit": "2026-08-21T03:42:34Z",
+            "last_commit": "2026-08-24T18:35:13Z",
             "owner": "PytorchConnectomics",
             "repo": "pytorch_connectomics",
             "stars": 200
@@ -855,7 +855,7 @@
             "archived": false,
             "id": 17755890,
             "language": "Python",
-            "last_commit": "2026-08-21T16:29:48Z",
+            "last_commit": "2026-08-24T16:47:06Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 817
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 248246347,
             "language": "MATLAB",
-            "last_commit": "2026-08-24T08:29:12Z",
+            "last_commit": "2026-08-24T16:52:57Z",
             "owner": "gcharvin",
             "repo": "DetecDiv",
             "stars": 9
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:31.920Z",
+    "last_updated": "2026-08-24T19:16:28.792Z",
     "original_repository": "hallvaaw/awesome-biological-image-analysis",
     "original_repository_id": 472116111,
     "original_repository_sha": "c1a3c6ddef25c1906e61a6496d7fcf7c89e115ca",
