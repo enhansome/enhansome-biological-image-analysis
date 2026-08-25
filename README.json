@@ -12,10 +12,10 @@
             "archived": false,
             "id": 5108051,
             "language": "C++",
-            "last_commit": "2026-08-25T05:39:45Z",
+            "last_commit": "2026-08-25T14:14:44Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90586
+            "stars": 90597
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 2014929,
             "language": "Python",
-            "last_commit": "2026-08-17T11:07:09Z",
+            "last_commit": "2026-08-25T16:33:46Z",
             "owner": "scikit-image",
             "repo": "scikit-image",
             "stars": 6576
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 144513571,
             "language": "Python",
-            "last_commit": "2026-08-24T20:49:38Z",
+            "last_commit": "2026-08-25T17:13:28Z",
             "owner": "napari",
             "repo": "napari",
-            "stars": 2740
+            "stars": 2739
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 246939908,
             "language": "C++",
-            "last_commit": "2026-08-25T04:37:17Z",
+            "last_commit": "2026-08-25T19:10:35Z",
             "owner": "Slicer",
             "repo": "Slicer",
-            "stars": 2594
+            "stars": 2595
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 342303492,
             "language": "Python",
-            "last_commit": "2026-08-24T16:36:19Z",
+            "last_commit": "2026-08-25T16:17:47Z",
             "owner": "SchmollerLab",
             "repo": "Cell_ACDC",
             "stars": 200
@@ -246,7 +246,7 @@
             "last_commit": "2026-02-14T16:16:18Z",
             "owner": "stardist",
             "repo": "stardist",
-            "stars": 1255
+            "stars": 1254
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 635751761,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T22:08:37Z",
+            "last_commit": "2026-08-25T18:32:44Z",
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 289306932,
             "language": "Python",
-            "last_commit": "2026-08-24T19:03:10Z",
+            "last_commit": "2026-08-25T19:03:08Z",
             "owner": "scverse",
             "repo": "squidpy",
-            "stars": 594
+            "stars": 595
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-08-10T21:16:19Z",
             "owner": "dcjones",
             "repo": "proseg",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -543,7 +543,7 @@
             "archived": false,
             "id": 166421141,
             "language": "Python",
-            "last_commit": "2026-08-24T22:05:49Z",
+            "last_commit": "2026-08-25T17:36:46Z",
             "owner": "4DNucleome",
             "repo": "PartSeg",
             "stars": 37
@@ -639,10 +639,10 @@
             "archived": false,
             "id": 59798355,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:49:42Z",
+            "last_commit": "2026-08-25T10:14:50Z",
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1353
+            "stars": 1354
           }
         },
         {
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 267067901,
             "language": "Python",
-            "last_commit": "2026-08-18T12:07:30Z",
+            "last_commit": "2026-08-25T13:02:56Z",
             "owner": "brainglobe",
             "repo": "brainreg",
             "stars": 149
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 69257805,
             "language": "Python",
-            "last_commit": "2026-08-16T03:22:17Z",
+            "last_commit": "2026-08-25T17:20:03Z",
             "owner": "axondeepseg",
             "repo": "axondeepseg",
             "stars": 127
@@ -807,7 +807,7 @@
             "last_commit": "2026-08-24T04:54:27Z",
             "owner": "morphonets",
             "repo": "SNT",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -855,7 +855,7 @@
             "archived": false,
             "id": 17755890,
             "language": "Python",
-            "last_commit": "2026-08-24T16:47:06Z",
+            "last_commit": "2026-08-25T16:14:31Z",
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 817
@@ -1194,7 +1194,7 @@
             "archived": false,
             "id": 15321451,
             "language": "Java",
-            "last_commit": "2026-08-23T14:04:48Z",
+            "last_commit": "2026-08-25T13:37:50Z",
             "owner": "trackmate-sc",
             "repo": "TrackMate",
             "stars": 238
@@ -1227,7 +1227,7 @@
             "last_commit": "2020-09-15T17:30:34Z",
             "owner": "oist",
             "repo": "Usiigaci",
-            "stars": 205
+            "stars": 206
           }
         },
         {
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 248246347,
             "language": "MATLAB",
-            "last_commit": "2026-08-24T16:52:57Z",
+            "last_commit": "2026-08-25T09:16:36Z",
             "owner": "gcharvin",
             "repo": "DetecDiv",
             "stars": 9
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:06.265Z",
+    "last_updated": "2026-08-25T19:16:48.876Z",
     "original_repository": "hallvaaw/awesome-biological-image-analysis",
     "original_repository_id": 472116111,
     "original_repository_sha": "c1a3c6ddef25c1906e61a6496d7fcf7c89e115ca",
