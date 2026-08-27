@@ -12,10 +12,10 @@
             "archived": false,
             "id": 5108051,
             "language": "C++",
-            "last_commit": "2026-08-26T10:38:33Z",
+            "last_commit": "2026-08-27T06:31:21Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90612
+            "stars": 90615
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 2014929,
             "language": "Python",
-            "last_commit": "2026-08-26T13:40:55Z",
+            "last_commit": "2026-08-26T21:40:54Z",
             "owner": "scikit-image",
             "repo": "scikit-image",
-            "stars": 6576
+            "stars": 6578
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T17:13:28Z",
             "owner": "napari",
             "repo": "napari",
-            "stars": 2739
+            "stars": 2741
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-26T04:37:55Z",
             "owner": "Slicer",
             "repo": "Slicer",
-            "stars": 2595
+            "stars": 2596
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-26T21:05:33Z",
             "owner": "CellProfiler",
             "repo": "CellProfiler",
-            "stars": 1134
+            "stars": 1135
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-18T04:02:29Z",
             "owner": "fiji",
             "repo": "fiji",
-            "stars": 1013
+            "stars": 1012
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-07-22T16:14:44Z",
             "owner": "imagej",
             "repo": "ImageJ",
-            "stars": 780
+            "stars": 781
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 342303492,
             "language": "Python",
-            "last_commit": "2026-08-25T16:17:47Z",
+            "last_commit": "2026-08-27T08:26:38Z",
             "owner": "SchmollerLab",
             "repo": "Cell_ACDC",
             "stars": 200
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 224552047,
             "language": "Python",
-            "last_commit": "2026-08-21T01:15:16Z",
+            "last_commit": "2026-08-27T01:52:30Z",
             "owner": "python-microscopy",
             "repo": "python-microscopy",
             "stars": 100
@@ -231,7 +231,7 @@
             "last_commit": "2026-06-14T13:21:03Z",
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2331
+            "stars": 2332
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-02-14T16:16:18Z",
             "owner": "stardist",
             "repo": "stardist",
-            "stars": 1255
+            "stars": 1256
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 635751761,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T15:36:20Z",
+            "last_commit": "2026-08-27T10:57:56Z",
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
-            "stars": 714
+            "stars": 715
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-06-04T06:44:21Z",
             "owner": "vanvalenlab",
             "repo": "cellSAM",
-            "stars": 212
+            "stars": 213
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2026-08-25T20:26:22Z",
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1356
+            "stars": 1358
           }
         },
         {
@@ -804,7 +804,7 @@
             "archived": false,
             "id": 221831995,
             "language": "Java",
-            "last_commit": "2026-08-26T02:47:35Z",
+            "last_commit": "2026-08-27T02:42:47Z",
             "owner": "morphonets",
             "repo": "SNT",
             "stars": 61
@@ -1797,9 +1797,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:12:54.809Z",
-    "original_repository": "hallvaaw/awesome-biological-image-analysis",
-    "original_repository_id": 472116111,
+    "last_updated": "2026-08-27T11:30:19.998Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 472116111,
+      "language": null,
+      "last_commit": "2026-03-14T14:38:05Z",
+      "owner": "hallvaaw",
+      "repo": "awesome-biological-image-analysis",
+      "stars": 192
+    },
     "original_repository_sha": "c1a3c6ddef25c1906e61a6496d7fcf7c89e115ca",
     "enhanced_repository": "enhansome/enhansome-biological-image-analysis",
     "enhanced_repository_description": null,
