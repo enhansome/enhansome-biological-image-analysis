@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Computer Vision Library",
+            "homepage": "https://opencv.org",
             "id": 5108051,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:53:22Z",
+            "open_issues": 2756,
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90637
+            "stars": 90640,
+            "topics": [
+              "c-plus-plus",
+              "computer-vision",
+              "deep-learning",
+              "image-processing",
+              "opencv"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -26,12 +37,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image processing in Python",
+            "homepage": "https://scikit-image.org",
             "id": 2014929,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T21:40:54Z",
+            "open_issues": 946,
             "owner": "scikit-image",
             "repo": "scikit-image",
-            "stars": 6578
+            "stars": 6579,
+            "topics": [
+              "computer-vision",
+              "image-processing",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -42,12 +62,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "napari: a fast, interactive, multi-dimensional image viewer for python",
+            "homepage": "https://napari.org",
             "id": 144513571,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T17:13:28Z",
+            "open_issues": 1234,
             "owner": "napari",
             "repo": "napari",
-            "stars": 2748
+            "stars": 2749,
+            "topics": [
+              "napari",
+              "numpy",
+              "python",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -58,12 +88,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-platform, free open source software for visualization and image computing.",
+            "homepage": "https://www.slicer.org",
             "id": 246939908,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T04:37:55Z",
+            "open_issues": 665,
             "owner": "Slicer",
             "repo": "Slicer",
-            "stars": 2598
+            "stars": 2598,
+            "topics": [
+              "3d-printing",
+              "3d-slicer",
+              "c-plus-plus",
+              "computed-tomography",
+              "image-guided-therapy",
+              "image-processing",
+              "itk",
+              "kitware",
+              "medical-image-computing",
+              "medical-imaging",
+              "national-institutes-of-health",
+              "neuroimaging",
+              "nih",
+              "python",
+              "qt",
+              "registration",
+              "segmentation",
+              "tcia-dac",
+              "tractography",
+              "vtk"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -74,12 +130,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open scientific N-dimensional image processing :microscope: :sparkler:",
+            "homepage": "https://imagej.net/",
             "id": 3276212,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-07T14:51:50Z",
+            "open_issues": 134,
             "owner": "imagej",
             "repo": "imagej2",
-            "stars": 1400
+            "stars": 1400,
+            "topics": [
+              "computer-vision",
+              "image-processing"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -90,12 +154,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image process framework based on plugin like imagej, it is esay to glue with scipy.ndimage, scikit-image, opencv, simpleitk, mayavi...and any libraries based on numpy",
+            "homepage": "http://imagepy.org",
             "id": 77593023,
             "language": "Python",
+            "license": "BSD-4-Clause",
             "last_commit": "2024-02-21T16:32:43Z",
+            "open_issues": 58,
             "owner": "Image-Py",
             "repo": "imagepy",
-            "stars": 1363
+            "stars": 1363,
+            "topics": [
+              "imagej",
+              "opencv",
+              "scikit-image",
+              "simpleitk"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -106,12 +180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source application for biological image analysis",
+            "homepage": "http://cellprofiler.org",
             "id": 1571820,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:03:35Z",
+            "open_issues": 305,
             "owner": "CellProfiler",
             "repo": "CellProfiler",
-            "stars": 1135
+            "stars": 1135,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -122,12 +201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A \"batteries-included\" distribution of ImageJ :battery:",
+            "homepage": "https://fiji.sc/",
             "id": 1611777,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-18T04:02:29Z",
+            "open_issues": 138,
             "owner": "fiji",
             "repo": "fiji",
-            "stars": 1012
+            "stars": 1012,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -138,12 +222,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public domain software for processing and analyzing scientific images",
+            "homepage": "http://imagej.org",
             "id": 2136580,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-22T16:14:44Z",
+            "open_issues": 89,
             "owner": "imagej",
             "repo": "ImageJ",
-            "stars": 781
+            "stars": 781,
+            "topics": [
+              "computer-vision",
+              "image-processing"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -154,12 +246,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ilastik-shell, applets, and workflows to string them together.",
+            "homepage": "https://ilastik.org",
             "id": 4262493,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T14:15:45Z",
+            "open_issues": 570,
             "owner": "ilastik",
             "repo": "ilastik",
-            "stars": 405
+            "stars": 405,
+            "topics": [
+              "ilastik",
+              "machine-learning",
+              "python",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -170,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python GUI-based framework for segmentation, tracking and cell cycle annotations of microscopy data",
+            "homepage": null,
             "id": 342303492,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T08:26:38Z",
+            "open_issues": 65,
             "owner": "SchmollerLab",
             "repo": "Cell_ACDC",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -186,12 +293,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source software for exploring and analyzing large, high-dimensional image-derived data. ",
+            "homepage": "http://cellprofileranalyst.org",
             "id": 2750815,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-21T17:11:34Z",
+            "open_issues": 72,
             "owner": "CellProfiler",
             "repo": "CellProfiler-Analyst",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "cellprofiler",
+              "cellprofiler-analyst",
+              "image-analysis",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -202,12 +319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The python-microscopy environment - an open-source package for light microscopy",
+            "homepage": "http://www.python-microscopy.org",
             "id": 224552047,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T01:52:30Z",
+            "open_issues": 147,
             "owner": "python-microscopy",
             "repo": "python-microscopy",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -218,12 +340,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive image processing program for biologists written in Python.",
+            "homepage": "http://flika-org.github.io/",
             "id": 36383640,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-04T16:01:04Z",
+            "open_issues": 6,
             "owner": "flika-org",
             "repo": "flika",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "astrocytes",
+              "biologists",
+              "calcium",
+              "fluorescence",
+              "image-processing",
+              "imagej",
+              "microscopy",
+              "neurons",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -240,12 +377,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a generalist algorithm for cellular segmentation with human-in-the-loop capabilities",
+            "homepage": "https://huggingface.co/spaces/mouseland/cellpose",
             "id": 237686847,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-14T13:21:03Z",
+            "open_issues": 67,
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2332
+            "stars": 2332,
+            "topics": [
+              "cell-biology",
+              "cell-segmentation",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -256,12 +402,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StarDist - Object Detection with Star-convex Shapes",
+            "homepage": null,
             "id": 138786192,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-14T16:16:18Z",
+            "open_issues": 70,
             "owner": "stardist",
             "repo": "stardist",
-            "stars": 1257
+            "stars": 1257,
+            "topics": [
+              "bioimage-analysis",
+              "cell-segmentation",
+              "deep-learning",
+              "nuclei-segmentation",
+              "object-detection",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -272,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simultaneous Nuclear Instance Segmentation and Classification in H&E Histology Images.",
+            "homepage": null,
             "id": 160665326,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-27T11:42:36Z",
+            "open_issues": 68,
             "owner": "vqdang",
             "repo": "hover_net",
-            "stars": 740
+            "stars": 740,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -288,12 +451,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment Anything for Microscopy",
+            "homepage": "https://computational-cell-analytics.github.io/micro-sam/",
             "id": 635751761,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:25:00Z",
+            "open_issues": 72,
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
-            "stars": 715
+            "stars": 715,
+            "topics": [
+              "automatic-segmentation",
+              "bioimage-analysis",
+              "cell-segmentation",
+              "interactive-segmentation",
+              "micro-sam",
+              "microscopy",
+              "microscopy-images",
+              "mitochondria-segmentation",
+              "napari",
+              "nuclei-segmentation",
+              "segment-anything",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -304,12 +485,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial Single Cell Analysis in Python",
+            "homepage": "https://squidpy.readthedocs.io/en/stable/",
             "id": 289306932,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T10:12:58Z",
+            "open_issues": 97,
             "owner": "scverse",
             "repo": "squidpy",
-            "stars": 595
+            "stars": 595,
+            "topics": [
+              "data-visualization",
+              "image-analysis",
+              "scverse",
+              "single-cell-genomics",
+              "single-cell-rna-seq",
+              "spatial-analysis",
+              "spatial-transcriptomics",
+              "squidpy"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -320,12 +515,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Nature Scientific Reports paper \"Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks.\" A sliding window framework for classification of high resolution whole-slide images, often microscopy or histopathology images.",
+            "homepage": "https://www.nature.com/articles/s41598-019-40041-7",
             "id": 163124274,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-07T15:22:44Z",
+            "open_issues": 0,
             "owner": "BMIRDS",
             "repo": "deepslide",
-            "stars": 516
+            "stars": 516,
+            "topics": [
+              "cancer",
+              "histopathology-images",
+              "lung",
+              "medical-image-analysis",
+              "microscopy",
+              "pathology-image",
+              "resnet",
+              "sliding-windows",
+              "wsi"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -336,12 +546,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning Library for Single Cell Analysis",
+            "homepage": "https://deepcell.readthedocs.io",
             "id": 133702954,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-04T01:21:08Z",
+            "open_issues": 56,
             "owner": "vanvalenlab",
             "repo": "deepcell-tf",
-            "stars": 477
+            "stars": 477,
+            "topics": [
+              "cell-biology",
+              "deep-learning",
+              "instance-segmentation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -352,12 +572,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cell detection in calcium imaging recordings",
+            "homepage": "https://suite2p.readthedocs.io/",
             "id": 141175642,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T18:10:35Z",
+            "open_issues": 58,
             "owner": "MouseLand",
             "repo": "suite2p",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "data-analysis",
+              "imaging",
+              "neuroscience"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -368,12 +597,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CellViT: Vision Transformers for Precise Cell Segmentation and Classification",
+            "homepage": "https://doi.org/10.1016/j.media.2024.103143",
             "id": 656166567,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-23T06:10:25Z",
+            "open_issues": 21,
             "owner": "TIO-IKIM",
             "repo": "CellViT",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "ai",
+              "cell",
+              "digitalpathology",
+              "microscopy",
+              "ml",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -384,12 +626,36 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Image segmentation - general superpixel segmentation & center detection & region growing",
+            "homepage": "https://borda.github.io/pyImSegm",
             "id": 96726940,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-01-04T12:26:08Z",
+            "open_issues": 2,
             "owner": "Borda",
             "repo": "pyImSegm",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "biomedical-imaging",
+              "center-detection",
+              "ellipse-fitting",
+              "graph-cut",
+              "graph-cuts",
+              "image-analysis",
+              "image-annotation",
+              "image-processing",
+              "image-segmentation",
+              "ipynb",
+              "medical-imaging",
+              "microscopy-images",
+              "object-detection",
+              "region-growing",
+              "segmentation-pipeline",
+              "shape-models",
+              "superpixel-segmentation",
+              "superpixels"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -400,12 +666,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep and Machine Learning for Microscopy",
+            "homepage": "https://atomai.readthedocs.io/",
             "id": 292764302,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-24T07:57:00Z",
+            "open_issues": 11,
             "owner": "pycroscopy",
             "repo": "atomai",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "deep-kernel-learning",
+              "deep-learning",
+              "electron-microscopy",
+              "ensemble-learning",
+              "fully-convolutional-networks",
+              "google-colaboratory",
+              "imaging",
+              "jupyter-notebook",
+              "machine-learning",
+              "materials",
+              "materials-science",
+              "microscopy",
+              "multivariate-analysis",
+              "pytorch",
+              "scanning-probe-microscopy",
+              "semantic-segmentation",
+              "variational-autoencoders"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -416,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for \"A Foundation Model for Cell Segmentation\"",
+            "homepage": "https://vanvalenlab.github.io/cellSAM/",
             "id": 757751896,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-04T06:44:21Z",
+            "open_issues": 50,
             "owner": "vanvalenlab",
             "repo": "cellSAM",
-            "stars": 213
+            "stars": 213,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -432,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Probabilistic cell segmentation for in situ spatial transcriptomics",
+            "homepage": null,
             "id": 660312190,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:34:48Z",
+            "open_issues": 82,
             "owner": "dcjones",
             "repo": "proseg",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -448,12 +747,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of  mathematical morphology methods and plugins for ImageJ",
+            "homepage": "http://imagej.net/MorphoLibJ",
             "id": 16696603,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-30T11:07:03Z",
+            "open_issues": 24,
             "owner": "ijpb",
             "repo": "MorphoLibJ",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "3d-images",
+              "fiji",
+              "image-analysis",
+              "image-processing",
+              "imagej",
+              "mathematical-morphology",
+              "morpholibj"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -464,12 +776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fiji library to perform image segmentation based on the Weka learning schemes",
+            "homepage": "https://imagej.net/Trainable_Weka_Segmentation",
             "id": 18406781,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-28T01:03:37Z",
+            "open_issues": 29,
             "owner": "fiji",
             "repo": "Trainable_Segmentation",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -480,12 +797,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrated pipeline for multiplexed image analysis",
+            "homepage": "https://ark-analysis.readthedocs.io/en/latest/",
             "id": 164378401,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-20T20:30:35Z",
+            "open_issues": 58,
             "owner": "angelolab",
             "repo": "ark-analysis",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "multiplexed-imaging",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -496,12 +821,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nellie: Automated organelle segmentation, tracking,  and hierarchical feature extraction in 2D/3D live-cell microscopy",
+            "homepage": null,
             "id": 606151831,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-15T01:01:34Z",
+            "open_issues": 4,
             "owner": "aelefebv",
             "repo": "nellie",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "biology",
+              "fluorescence",
+              "image-analysis",
+              "image-processing",
+              "machine-learning",
+              "microscopy",
+              "organelles",
+              "segmentation",
+              "tracking"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -512,12 +852,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: Image processing toolbox for R",
+            "homepage": null,
             "id": 22993924,
             "language": "R",
+            "license": null,
             "last_commit": "2024-10-14T22:36:12Z",
+            "open_issues": 37,
             "owner": "aoles",
             "repo": "EBImage",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "bioinformatics",
+              "image-analysis",
+              "image-processing",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -528,12 +878,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " SplineDist: Automated Cell Segmentation with Spline Curves",
+            "homepage": null,
             "id": 329296311,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-09-29T11:27:15Z",
+            "open_issues": 6,
             "owner": "uhlmanngroup",
             "repo": "splinedist",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -544,12 +899,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine learning for Analysis of Proteomics in Spatial biology - Nature Communications",
+            "homepage": null,
             "id": 626116422,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-14T16:58:36Z",
+            "open_issues": 4,
             "owner": "mahmoodlab",
             "repo": "MAPS",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "cell-annotation",
+              "mpif",
+              "multiplexed-imaging"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -560,12 +924,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gaussian processes and Bayesian optimization for images and hyperspectral data",
+            "homepage": null,
             "id": 241448693,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-24T06:29:59Z",
+            "open_issues": 1,
             "owner": "ziatdinovmax",
             "repo": "GPim",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "bayesian-optimization",
+              "colab-notebook",
+              "gaussian-processes",
+              "hyperspectral-images",
+              "image-processing",
+              "lattice-models",
+              "microscopy"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -576,12 +953,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for segmentation in bioimaging",
+            "homepage": "https://partseg.github.io/",
             "id": 166421141,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T17:36:46Z",
+            "open_issues": 21,
             "owner": "4DNucleome",
             "repo": "PartSeg",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "bioimage-analysis",
+              "napari"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -592,12 +977,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A foundation model-driven whole slide image-scale cell phenotyping method with QuPath integration Resources",
+            "homepage": null,
             "id": 1121218910,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T13:55:31Z",
+            "open_issues": 3,
             "owner": "sohmandal",
             "repo": "classpose",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "bioimage-analysis",
+              "cell-classification",
+              "computer-vision",
+              "digital-pathology",
+              "foundation-models",
+              "microscopy"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -608,12 +1005,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D shape analysis using deep learning",
+            "homepage": "https://www.cell.com/cell-systems/pdf/S2405-4712(25)00062-6.pdf",
             "id": 505812768,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-08T13:04:14Z",
+            "open_issues": 5,
             "owner": "Sentinal4D",
             "repo": "cellshape",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "cancer-biology",
+              "cell-biology",
+              "deep-learning",
+              "geometric-deep-learning"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -624,12 +1031,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast spatial deconvolution via leverage-score sketching — scales to million-spot datasets while preserving rare cell type signals.",
+            "homepage": null,
             "id": 1114934837,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-30T12:55:30Z",
+            "open_issues": 0,
             "owner": "cafferychen777",
             "repo": "flashdeconv",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "bioinformatics",
+              "cell-type-deconvolution",
+              "computational-biology",
+              "deconvolution",
+              "python",
+              "scanpy",
+              "single-cell",
+              "spatial-transcriptomics",
+              "visium"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -640,12 +1062,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accurate segmentation of bacterial microscope images using deep learning synthetically generated image data.",
+            "homepage": "https://doi.org/10.1186/s12915-022-01453-6",
             "id": 337275203,
             "language": "Jupyter Notebook",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-07T14:40:37Z",
+            "open_issues": 24,
             "owner": "georgeoshardo",
             "repo": "SyMBac",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "biology",
+              "deep-learning",
+              "image-processing",
+              "machine-learning",
+              "microscopy",
+              "segmentation",
+              "synthetic-biology",
+              "synthetic-data",
+              "synthetic-dataset-generation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -656,12 +1093,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SALEM^2: Segment Anything in Light and Electron Microscopy via Membrane Guidance",
+            "homepage": null,
             "id": 722383340,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-09-24T08:17:17Z",
+            "open_issues": 0,
             "owner": "JackieZhai",
             "repo": "SALEM2",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -678,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebGL-based viewer for volumetric data",
+            "homepage": "https://neuroglancer-docs.web.app",
             "id": 59798355,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:15:33Z",
+            "open_issues": 236,
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1358
+            "stars": 1358,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -694,12 +1141,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computational toolbox for large scale Calcium Imaging Analysis, including movie handling, motion correction, source extraction, spike deconvolution and result visualization.",
+            "homepage": "https://caiman.readthedocs.io",
             "id": 40307735,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-02T21:54:19Z",
+            "open_issues": 101,
             "owner": "flatironinstitute",
             "repo": "CaImAn",
-            "stars": 734
+            "stars": 734,
+            "topics": [
+              "2-photon",
+              "calcium-imaging",
+              "cnmf",
+              "deconvolution",
+              "motion-correction",
+              "source-extraction"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -710,12 +1169,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package to visualise neuroanatomical data in atlas space",
+            "homepage": "https://brainglobe.info/documentation/brainrender/index.html",
             "id": 209513981,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-16T17:26:19Z",
+            "open_issues": 10,
             "owner": "brainglobe",
             "repo": "brainrender",
-            "stars": 666
+            "stars": 666,
+            "topics": [
+              "anatomy",
+              "neuroscience",
+              "python",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -726,12 +1195,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated 3D cell detection in very large images",
+            "homepage": "https://brainglobe.info/documentation/cellfinder/index.html",
             "id": 234562117,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-22T06:31:08Z",
+            "open_issues": 93,
             "owner": "brainglobe",
             "repo": "cellfinder",
-            "stars": 231
+            "stars": 231,
+            "topics": [
+              "cell-detection",
+              "deep-learning",
+              "image-analysis",
+              "imaging",
+              "microscopy",
+              "neuroanatomy",
+              "neuroscience",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -742,12 +1225,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Connectomics: segmentation toolbox for EM connectomics",
+            "homepage": "https://pytorchconnectomics.github.io/pytorch_connectomics/",
             "id": 178031166,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:32:03Z",
+            "open_issues": 0,
             "owner": "PytorchConnectomics",
             "repo": "pytorch_connectomics",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "biomedical-image-processing",
+              "computer-vision",
+              "connectomics",
+              "deep-learning",
+              "microscopy",
+              "neuroscience",
+              "pytorch",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -758,12 +1255,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python interface to access neuroanatomical atlases",
+            "homepage": "https://brainglobe.info/documentation/brainglobe-atlasapi/index.html",
             "id": 260189665,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T14:29:54Z",
+            "open_issues": 287,
             "owner": "brainglobe",
             "repo": "brainglobe-atlasapi",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "atlases",
+              "brain",
+              "microscopy",
+              "neuroscience",
+              "python",
+              "registration",
+              "visualisation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -774,12 +1284,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read and write Neuroglancer datasets programmatically.",
+            "homepage": "https://twitter.com/thundercloudvol",
             "id": 98333149,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-13T01:17:15Z",
+            "open_issues": 92,
             "owner": "seung-lab",
             "repo": "cloud-volume",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "big-data",
+              "biomedical-image-processing",
+              "chunked-image",
+              "cloud",
+              "connectomics",
+              "electron-microscopy",
+              "gcs",
+              "large-image",
+              "matrix",
+              "mesh",
+              "microscopy",
+              "microscopy-images",
+              "neuroglancer",
+              "numpy",
+              "python",
+              "s3",
+              "serverless",
+              "skeletons",
+              "tensor",
+              "volumetric-data"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -790,12 +1326,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated 3D brain registration with support for multiple species and atlases.",
+            "homepage": "https://brainglobe.info/documentation/brainreg/index.html",
             "id": 267067901,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T10:06:31Z",
+            "open_issues": 20,
             "owner": "brainglobe",
             "repo": "brainreg",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "atlases",
+              "brain",
+              "microscopy",
+              "neuroanatomy",
+              "neuroscience",
+              "registration"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -806,12 +1354,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Axon/Myelin segmentation using Deep Learning",
+            "homepage": "https://axondeepseg.rtfd.io/",
             "id": 69257805,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:11:11Z",
+            "open_issues": 59,
             "owner": "axondeepseg",
             "repo": "axondeepseg",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "axon",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "electron-microscopy",
+              "histology",
+              "machine-learning",
+              "microscopy",
+              "myelin",
+              "neuropoly",
+              "segmentation",
+              "spinalcord"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -822,12 +1387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for segmentation, registration and generating web-based brain atlases from microscope images",
+            "homepage": null,
             "id": 45200355,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2021-07-16T07:40:36Z",
+            "open_issues": 29,
             "owner": "tractatus",
             "repo": "wholebrain",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -838,12 +1408,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeuroAnatomy Toolbox: An R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.",
+            "homepage": "https://natverse.org/nat/",
             "id": 15578625,
             "language": "R",
+            "license": null,
             "last_commit": "2026-07-30T22:27:18Z",
+            "open_issues": 57,
             "owner": "natverse",
             "repo": "nat",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "3d",
+              "connectomics",
+              "cran",
+              "image-analysis",
+              "neuroanatomy",
+              "neuroanatomy-toolbox",
+              "neuron",
+              "neuron-morphology",
+              "neuroscience",
+              "r",
+              "visualisation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -854,12 +1441,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The framework for quantification of neuronal anatomy ",
+            "homepage": "https://imagej.net/plugins/snt",
             "id": 221831995,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T02:42:47Z",
+            "open_issues": 17,
             "owner": "morphonets",
             "repo": "SNT",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "fiji",
+              "imagej",
+              "imagej2",
+              "janelia",
+              "neuroanatomy-toolbox",
+              "neuron-reconstruction",
+              "neurons",
+              "neuroscience",
+              "scijava"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -870,12 +1472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 211824566,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-18T19:09:36Z",
+            "open_issues": 6,
             "owner": "albert597",
             "repo": "TRAILMAP",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -886,12 +1493,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "#ZVQ - Zebrafish Vascular Quantification - https://doi.org/10.1242/dev.199720",
+            "homepage": "https://www.elisabethkugler.com/",
             "id": 286490250,
             "language": "ImageJ Macro",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-05-24T13:12:55Z",
+            "open_issues": 1,
             "owner": "ElisabethKugler",
             "repo": "ZFVascularQuantification",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "fiji",
+              "fiji-macro-language",
+              "image-processing",
+              "lightsheet",
+              "microscopy",
+              "microscopy-data",
+              "openscience",
+              "quantification",
+              "registration",
+              "segmentation",
+              "vasculature",
+              "zebrafish"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -908,12 +1533,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plant phenotyping with image analysis",
+            "homepage": null,
             "id": 17755890,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T20:03:22Z",
+            "open_issues": 134,
             "owner": "danforthcenter",
             "repo": "plantcv",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "bioinformatics",
+              "image-analysis",
+              "plant-phenotyping",
+              "plantcv",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -924,12 +1560,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A tool for cell instance aware segmentation in densely packed 3D volumetric images ",
+            "homepage": "https://kreshuklab.github.io/panseg/latest/",
             "id": 216003952,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T20:30:43Z",
+            "open_issues": 31,
             "owner": "kreshuklab",
             "repo": "panseg",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "bioimage-analysis",
+              "bioinformatics",
+              "deep-learning",
+              "image-segmentation",
+              "neural-network",
+              "segmentation",
+              "unet"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -940,12 +1589,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RootPainter: Deep Learning Segmentation of Biological Images with Corrective Annotation",
+            "homepage": "https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18387",
             "id": 256066339,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T09:27:16Z",
+            "open_issues": 40,
             "owner": "Abe404",
             "repo": "root_painter",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "biological-images",
+              "deep-learning",
+              "gui",
+              "human-in-the-loop",
+              "human-in-the-loop-machine-learning",
+              "interactive-machine-learning",
+              "interactive-segmentation",
+              "interactive-training",
+              "machine-teaching",
+              "painter",
+              "pytorch",
+              "root",
+              "root-painter",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -956,12 +1625,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A versatile, fully open-source pipeline to extract phenotypic measurements from plant images",
+            "homepage": null,
             "id": 240287274,
             "language": "Nextflow",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-26T14:10:45Z",
+            "open_issues": 4,
             "owner": "Gregor-Mendel-Institute",
             "repo": "aradeepopsis",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "arabidopsis-thaliana",
+              "deep-learning",
+              "nextflow",
+              "plant-phenotyping",
+              "scikit-image",
+              "semantic-segmentation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -972,12 +1654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application to extract features from plant root images",
+            "homepage": "http://www.rhizovision.com",
             "id": 168380552,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-21T20:22:00Z",
+            "open_issues": 10,
             "owner": "predictivephenomics",
             "repo": "RhizoVisionExplorer",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -988,12 +1675,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Header-only C++11 library using OpenCV for high-throughput image-based plant phenotyping",
+            "homepage": null,
             "id": 156551063,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2022-04-28T14:59:07Z",
+            "open_issues": 0,
             "owner": "jberry47",
             "repo": "ddpsc_phenotypercv",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "charuco",
+              "color-correction",
+              "high-throughput",
+              "image-processing",
+              "machine-learning",
+              "opencv",
+              "plant-phenotyping"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1010,12 +1710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accurate and efficient spot detection for microscopy data",
+            "homepage": "https://weigertlab.github.io/spotiflow/",
             "id": 751952101,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-08T15:42:01Z",
+            "open_issues": 6,
             "owner": "weigertlab",
             "repo": "spotiflow",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1026,12 +1731,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolbox for the analysis of smFISH images.",
+            "homepage": "https://big-fish.readthedocs.io/en/stable/",
             "id": 162127052,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-10-31T13:49:32Z",
+            "open_issues": 20,
             "owner": "fish-quant",
             "repo": "big-fish",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "pattern-classification",
+              "rna-localization",
+              "segmentation",
+              "smfish",
+              "spatial-features",
+              "spot-detection"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1042,12 +1759,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for precise, interactive, fast and scalable FISH spot detection",
+            "homepage": null,
             "id": 105794560,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2025-02-04T15:48:48Z",
+            "open_issues": 10,
             "owner": "PreibischLab",
             "repo": "RS-FISH",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1058,12 +1780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for statistical analysis of mRNA and protein distributions in fluorescent microscopy images",
+            "homepage": null,
             "id": 114349309,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-03T22:36:16Z",
+            "open_issues": 13,
             "owner": "cbib",
             "repo": "dypfish",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1080,12 +1807,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tools for painting super-resolution images",
+            "homepage": "https://picassosr.readthedocs.io/en/latest/?badge=latest",
             "id": 72086122,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T09:06:47Z",
+            "open_issues": 3,
             "owner": "jungmannlab",
             "repo": "picasso",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "dna-paint",
+              "microscopy",
+              "smlm",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1096,12 +1833,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ThunderSTORM: a comprehensive ImageJ plugin for SMLM data analysis and super-resolution imaging",
+            "homepage": "http://zitmen.github.io/thunderstorm/",
             "id": 34996988,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2018-09-06T13:13:53Z",
+            "open_issues": 37,
             "owner": "zitmen",
             "repo": "thunderstorm",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1112,12 +1854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 155880031,
             "language": "MATLAB",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T14:21:50Z",
+            "open_issues": 12,
             "owner": "jries",
             "repo": "SMAP",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1128,12 +1875,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Imagej macro to calculate the MTF based on a knife edge measurement",
+            "homepage": null,
             "id": 125439537,
             "language": "ImageJ Macro",
+            "license": null,
             "last_commit": "2025-01-07T12:43:10Z",
+            "open_issues": 5,
             "owner": "emx77",
             "repo": "ASI_MTF",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "electron-microscopy",
+              "image-analysis",
+              "imagej",
+              "imagej-macro",
+              "imagej-plugins",
+              "mtf",
+              "point-spread-function",
+              "x-ray-imaging"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1144,12 +1905,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.",
+            "homepage": null,
             "id": 394599605,
             "language": "ImageJ Macro",
+            "license": "MIT",
             "last_commit": "2025-04-23T09:23:37Z",
+            "open_issues": 3,
             "owner": "lukmuk",
             "repo": "em-scalebartools",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "electron-microscopy",
+              "fiji",
+              "imagej",
+              "scalebar"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1160,12 +1931,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Panoptic segmentation algorithms for 2D and 3D electron microscopy images",
+            "homepage": "https://empanada.readthedocs.io/en/latest/index.html",
             "id": 433893739,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-02-25T22:56:09Z",
+            "open_issues": 7,
             "owner": "volume-em",
             "repo": "empanada",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "deep-learning",
+              "electron-microscopy",
+              "instance-segmentation",
+              "panoptic-segmentation",
+              "pytorch",
+              "segmentation",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1182,12 +1966,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image quality is an open source software library for Image Quality Assessment (IQA).",
+            "homepage": null,
             "id": 195560510,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-05T19:24:49Z",
+            "open_issues": 21,
             "owner": "ocampor",
             "repo": "image-quality",
-            "stars": 434
+            "stars": 434,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "image-analysis",
+              "image-quality-assessment",
+              "machine-learning",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1198,12 +1995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image restoration for fluorescence microscopy",
+            "homepage": null,
             "id": 136194704,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-08T20:42:53Z",
+            "open_issues": 28,
             "owner": "CSBDeep",
             "repo": "CSBDeep",
-            "stars": 336
+            "stars": 336,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1214,12 +2016,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lattice light-sheet post-processing utility.",
+            "homepage": "http://llspy.readthedocs.io",
             "id": 96235902,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T21:19:06Z",
+            "open_issues": 5,
             "owner": "tlambert03",
             "repo": "LLSpy",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "image-analysis",
+              "image-processing",
+              "light-sheet",
+              "microscopy"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1230,12 +2042,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noise Correction Algorithm for sCMOS cameras",
+            "homepage": "http://www.nature.com/nmeth/journal/v14/n8/full/nmeth.4379.html",
             "id": 96813627,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-01-15T20:22:29Z",
+            "open_issues": 0,
             "owner": "HuanglabPurdue",
             "repo": "NCS",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "algorithm",
+              "cmos",
+              "imaging",
+              "microscopy",
+              "noise",
+              "noise-correction",
+              "readout",
+              "scmos",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1246,12 +2073,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for ImageJ - color space conversions and color calibration",
+            "homepage": null,
             "id": 19225332,
             "language": "Scala",
+            "license": "LGPL-2.1",
             "last_commit": "2026-03-23T03:47:09Z",
+            "open_issues": 8,
             "owner": "ij-plugins",
             "repo": "ijp-color",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "ijp-color",
+              "imagej",
+              "sbt-imagej",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1268,12 +2105,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TrackMate is your buddy for your everyday tracking.",
+            "homepage": "https://imagej.net/plugins/trackmate",
             "id": 15321451,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T15:56:13Z",
+            "open_issues": 20,
             "owner": "trackmate-sc",
             "repo": "TrackMate",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "fiji-plugin",
+              "image-analysis",
+              "single-particle-tracking"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1284,12 +2130,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cell tracking and segmentation software",
+            "homepage": "https://royerlab.github.io/ultrack",
             "id": 528592066,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-13T17:55:24Z",
+            "open_issues": 72,
             "owner": "royerlab",
             "repo": "ultrack",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "cell-segmentation",
+              "cell-tracking",
+              "cell-tracking-challenge",
+              "gurobi"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1300,12 +2156,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Usiigaci: stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning",
+            "homepage": null,
             "id": 137439282,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-09-15T17:30:34Z",
+            "open_issues": 13,
             "owner": "oist",
             "repo": "Usiigaci",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "cell-biology",
+              "cell-segmentation",
+              "keras",
+              "machine-learning",
+              "mask-rcnn",
+              "matplotlib",
+              "python3",
+              "resnet-101",
+              "tensorflow",
+              "tracking",
+              "trackpy",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1316,12 +2190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analysis of TrackMate XML outputs in R",
+            "homepage": "https://quantixed.github.io/TrackMateR/",
             "id": 453722113,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-07T17:12:18Z",
+            "open_issues": 0,
             "owner": "quantixed",
             "repo": "TrackMateR",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1332,12 +2211,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analysis of cell migration in Igor Pro",
+            "homepage": null,
             "id": 41031742,
             "language": "IGOR Pro",
+            "license": "MIT",
             "last_commit": "2021-08-20T10:47:04Z",
+            "open_issues": 0,
             "owner": "quantixed",
             "repo": "CellMigration",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "cell-migration",
+              "igor",
+              "imagej",
+              "tracking"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1348,12 +2237,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuimP is software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.",
+            "homepage": "http://www.warwick.ac.uk/quimp",
             "id": 79904460,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-27T23:11:00Z",
+            "open_issues": 33,
             "owner": "CellDynamics",
             "repo": "QuimP",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "cell",
+              "imagej",
+              "motility",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1370,12 +2269,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for computational pathology",
+            "homepage": "https://pathml.org",
             "id": 199872628,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-14T02:49:27Z",
+            "open_issues": 52,
             "owner": "Dana-Farber-AIOS",
             "repo": "pathml",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "biomedical-image-processing",
+              "computational-pathology",
+              "deep-learning",
+              "digital-pathology",
+              "fluorescence-microscopy-imaging",
+              "histopathology",
+              "image-analysis",
+              "machine-learning",
+              "microscopy",
+              "pathml",
+              "pathology",
+              "python",
+              "pytorch",
+              "research",
+              "spatial-transcriptomics"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1386,12 +2306,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Open-source software for deep learning-based digital pathology",
+            "homepage": null,
             "id": 196004095,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-06-14T22:59:49Z",
+            "open_issues": 26,
             "owner": "AICAN-Research",
             "repo": "FAST-Pathology",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "computational-pathology",
+              "convolutional-neural-networks",
+              "cplusplus",
+              "deep-learning",
+              "deployment",
+              "digital-pathology",
+              "fastpathology",
+              "free-to-use",
+              "inference",
+              "machine-learning",
+              "opencl",
+              "opengl",
+              "openvino",
+              "pytorch",
+              "software",
+              "tensorflow",
+              "tensorrt"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1402,12 +2345,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PAthological QUpath Obsession - QuPath and Python conversations",
+            "homepage": null,
             "id": 277534200,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-30T08:28:33Z",
+            "open_issues": 35,
             "owner": "Bayer-Group",
             "repo": "paquo",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "digital-pathology",
+              "python",
+              "qupath"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1418,12 +2370,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minerva Story is an image viewer that is designed specifically to make it easy for non-expert users to interact with complex tissue images.",
+            "homepage": "https://minerva.im",
             "id": 228461778,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-05-08T18:52:37Z",
+            "open_issues": 20,
             "owner": "labsyspharm",
             "repo": "minerva-story",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "immunofluorescence",
+              "microscopy",
+              "minerva",
+              "ome"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1434,12 +2396,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HistoClean is a tool for  the preprocessing and augmentation of images used in deep learning models.  This easy to use application brings together the most popular image processing packages from across the python universe,  meaning no more looking at documentation! HistoClean provides real time feedback to augmentations and preprocessing options.  This allows users to evaluate their steps before implementation. ",
+            "homepage": null,
             "id": 364626048,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2022-02-18T12:42:01Z",
+            "open_issues": 3,
             "owner": "HistoCleanQUB",
             "repo": "HistoClean",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "convolutional-neural-networks",
+              "deep-learning",
+              "gui",
+              "gui-application",
+              "image-analysis",
+              "image-augmentation",
+              "image-augmentation-preprocessing",
+              "image-processing",
+              "images"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1456,12 +2433,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image classification of Fungus using ResNet",
+            "homepage": null,
             "id": 214950483,
             "language": "Go",
+            "license": null,
             "last_commit": "2020-02-06T05:58:55Z",
+            "open_issues": 1,
             "owner": "Olament",
             "repo": "DeepMushroom",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "classification",
+              "fungus",
+              "resnet"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1472,12 +2458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fungal Feature Tracker (FFT): A tool to quantitatively characterize morphology and growth of filamentous fungi",
+            "homepage": null,
             "id": 186534594,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-07-29T07:33:45Z",
+            "open_issues": 3,
             "owner": "hsueh-lab",
             "repo": "FFT",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1494,12 +2485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive tool for segmenting yeast cells using deep learning.",
+            "homepage": "https://www.quantsysbio.com/",
             "id": 251119584,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-14T10:23:09Z",
+            "open_issues": 3,
             "owner": "rahi-lab",
             "repo": "YeaZ-GUI",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1510,12 +2506,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔬Python package for high-throughput single-cell imaging analysis.",
+            "homepage": null,
             "id": 52201279,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-22T23:05:33Z",
+            "open_issues": 0,
             "owner": "rraadd88",
             "repo": "htsimaging",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "microscopy-image-analysis",
+              "single-cell-analysis"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1532,12 +2536,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleITK: a layer built on top of the Insight Toolkit (ITK), intended to simplify and facilitate ITK's use in rapid prototyping, education and interpreted languages.",
+            "homepage": "http://www.simpleitk.org",
             "id": 1069177,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:02:12Z",
+            "open_issues": 101,
             "owner": "SimpleITK",
             "repo": "SimpleITK",
-            "stars": 1083
+            "stars": 1083,
+            "topics": [
+              "c-plus-plus",
+              "csharp",
+              "image-analysis",
+              "image-processing",
+              "itk",
+              "java",
+              "lua",
+              "python",
+              "r",
+              "registration",
+              "ruby",
+              "segmentation",
+              "simpleitk",
+              "swig",
+              "tcl"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1548,12 +2573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZeroCostDL4Mic: A Google Colab based no-cost toolbox to explore Deep-Learning in Microscopy",
+            "homepage": null,
             "id": 239971181,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-29T06:40:09Z",
+            "open_issues": 59,
             "owner": "HenriquesLab",
             "repo": "ZeroCostDL4Mic",
-            "stars": 649
+            "stars": 649,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1564,12 +2594,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural networks toolbox focused on medical image analysis",
+            "homepage": null,
             "id": 84505424,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T23:29:07Z",
+            "open_issues": 20,
             "owner": "adalca",
             "repo": "neurite",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "brain",
+              "convolutional-neural-networks",
+              "keras",
+              "medical-image-computing",
+              "medical-imaging",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1580,12 +2623,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Python",
+            "homepage": "https://allencellmodeling.github.io/aicsimageio",
             "id": 194131198,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-01T19:17:09Z",
+            "open_issues": 2,
             "owner": "AllenCellModeling",
             "repo": "aicsimageio",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "bio-formats",
+              "dask",
+              "image-metadata",
+              "imageio",
+              "microscopy",
+              "python",
+              "scientific-computing",
+              "scientific-formats",
+              "xarray"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1596,12 +2654,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cancer Imaging Phenomics Toolkit (CaPTk) is a software platform to perform image analysis and predictive modeling tasks. Documentation: https://cbica.github.io/CaPTk",
+            "homepage": "https://www.cbica.upenn.edu/captk",
             "id": 128938343,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-09T00:42:42Z",
+            "open_issues": 174,
             "owner": "CBICA",
             "repo": "CaPTk",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "analytics",
+              "cancer",
+              "cancer-imaging-research",
+              "cbica",
+              "cpp",
+              "cpp11",
+              "cwl",
+              "cwltool",
+              "image-analysis",
+              "itcr",
+              "machine-learning",
+              "medical-image-computing",
+              "medical-image-processing",
+              "medical-imaging",
+              "nci",
+              "nci-itcr",
+              "nih",
+              "radiomics",
+              "radiomics-features",
+              "u24"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1612,12 +2696,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of tools and scripts useful to automate microscopy workflows in ZEN Blue using Python and Open Application Development tools and AI tools.",
+            "homepage": null,
             "id": 154986706,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-10T12:07:49Z",
+            "open_issues": 0,
             "owner": "zeiss-microscopy",
             "repo": "OAD",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "acquisition",
+              "automation",
+              "image-analysis",
+              "image-processing",
+              "imaging",
+              "machine-learning",
+              "microscopy",
+              "oad",
+              "open-source",
+              "python",
+              "python-script",
+              "scripting",
+              "workflow",
+              "zen",
+              "zen-blue"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1628,12 +2733,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python package for image-based profiling",
+            "homepage": "https://pycytominer.readthedocs.io/en/latest/",
             "id": 195106954,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T22:18:18Z",
+            "open_issues": 44,
             "owner": "cytomining",
             "repo": "pycytominer",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "cellprofiler",
+              "cytominer",
+              "image-analysis",
+              "image-based-profiling",
+              "microscopy",
+              "morphological-profiling",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1644,12 +2762,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python functions for simulating optical transfer functions",
+            "homepage": null,
             "id": 68828588,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-08T20:58:26Z",
+            "open_issues": 7,
             "owner": "david-hoffman",
             "repo": "pyotf",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "microscopy",
+              "numpy"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1660,12 +2786,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure Python library for reading NIS Elements ND2 images and metadata",
+            "homepage": "https://open-science-tools.github.io/nd2reader/",
             "id": 81961382,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-15T10:15:32Z",
+            "open_issues": 29,
             "owner": "Open-Science-Tools",
             "repo": "nd2reader",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "microscopy",
+              "microscopy-images",
+              "nd2",
+              "nikon",
+              "nis-elements",
+              "pims"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1676,12 +2814,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZetaStitcher is a tool designed to stitch large volumetric images such as those produced by Light-Sheet Fluorescence Microscopes.",
+            "homepage": null,
             "id": 109819023,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-13T16:07:56Z",
+            "open_issues": 5,
             "owner": "lens-biophotonics",
             "repo": "ZetaStitcher",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "fluorescence-microscopy-imaging",
+              "microscopy",
+              "microscopy-images",
+              "stitching",
+              "volumetric-images"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1692,12 +2841,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network Extraction From Images",
+            "homepage": null,
             "id": 55132937,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-05-13T16:17:30Z",
+            "open_issues": 26,
             "owner": "05dirnbe",
             "repo": "nefi",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1708,12 +2862,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Multiple file format reading directly into napari using pure Python",
+            "homepage": null,
             "id": 248818912,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-15T22:23:01Z",
+            "open_issues": 20,
             "owner": "AllenCellModeling",
             "repo": "napari-aicsimageio",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "imageio",
+              "microscopy",
+              "napari"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1724,12 +2887,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quanfima (Quantitative Analysis of Fibrous Materials)",
+            "homepage": "http://quanfima.readthedocs.io",
             "id": 127795855,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-03T22:20:10Z",
+            "open_issues": 6,
             "owner": "rshkarin",
             "repo": "quanfima",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "data-analysis",
+              "material-science",
+              "morphological-analysis",
+              "volumetric-data"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1740,12 +2913,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugins for bone image analysis",
+            "homepage": null,
             "id": 54976745,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-28T15:19:23Z",
+            "open_issues": 32,
             "owner": "bonej-org",
             "repo": "BoneJ2",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "fiji-plugin",
+              "image-analysis",
+              "image-processing",
+              "imagej",
+              "imagej-plugins",
+              "java-8",
+              "maven-multimodule",
+              "scientific-computing",
+              "skeletal-biology",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1756,12 +2945,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single-cell fluorescence microscopy data analysis",
+            "homepage": "https://colicoords.readthedocs.io/",
             "id": 92830488,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-22T08:43:11Z",
+            "open_issues": 47,
             "owner": "Jhsmit",
             "repo": "ColiCoords",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "fluorescence-microscopy-imaging",
+              "microscopy"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1772,12 +2969,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Z-stack Depth Colorcode ImageJ FIJI plugin",
+            "homepage": null,
             "id": 328708769,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-06T19:19:23Z",
+            "open_issues": 0,
             "owner": "UU-cellbiology",
             "repo": "ZstackDepthColorCode",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "colorcode",
+              "fiji",
+              "fiji-plugin",
+              "imagej",
+              "imagej-plugin",
+              "microscopy",
+              "utrecht-university"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1788,12 +2998,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular image and object analysis workflows for ImageJ/Fiji",
+            "homepage": "https://mianalysis.github.io",
             "id": 125508934,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T10:53:00Z",
+            "open_issues": 45,
             "owner": "mianalysis",
             "repo": "mia",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "fiji-plugin",
+              "image-analysis",
+              "image-processing",
+              "imagej",
+              "modular"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1804,12 +3025,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python package to analyze the matrix fiber orientation and intensity around cells in fiber matrices (as a proxy for cellular forces).  ",
+            "homepage": null,
             "id": 278071833,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-17T16:33:46Z",
+            "open_issues": 0,
             "owner": "davidbhr",
             "repo": "CompactionAnalyzer",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "cell-mechanics",
+              "collagen",
+              "contractility",
+              "ecm",
+              "fibers",
+              "fibrosis",
+              "image-processing",
+              "imaging",
+              "mechanobiology",
+              "microscopy",
+              "orientation",
+              "tfm",
+              "traction-force-microscopy"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1820,12 +3060,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[DEPRECATED] A package for storing morphological profiling data.",
+            "homepage": null,
             "id": 49161267,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-10T20:37:18Z",
+            "open_issues": 14,
             "owner": "cytomining",
             "repo": "cytominer-database",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "database",
+              "microscopy",
+              "profiling"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1836,12 +3085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DetecDiv provides a comprehensive set of tools to analyze time microscopy images using deep learning methods. The software structure is such that data can be processed either at the command line or using a graphical user-interface. Detecdiv classification models include : image classification and regression, semantic segmentation, LSTM networks to analyze data and image timeseries. ",
+            "homepage": null,
             "id": 248246347,
             "language": "MATLAB",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T11:46:57Z",
+            "open_issues": 2,
             "owner": "gcharvin",
             "repo": "DetecDiv",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         },
@@ -1852,12 +3106,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XitoSBML - the spatial SBML plugin for ImageJ",
+            "homepage": null,
             "id": 72715497,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-11-17T13:54:06Z",
+            "open_issues": 2,
             "owner": "spatialsimulator",
             "repo": "XitoSBML",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "fiji",
+              "imagej",
+              "sbml",
+              "spatial-sbml-plugin",
+              "systems-biology"
+            ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
         }
@@ -1876,12 +3141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Non-comprehensive list of projects and resources related to open microscopy.",
+                "homepage": null,
                 "id": 411205164,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-23T09:27:36Z",
+                "open_issues": 0,
                 "owner": "HohlbeinLab",
                 "repo": "OpenMicroscopy",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:01.856Z"
             },
@@ -1892,12 +3162,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome cytodata resources",
+                "homepage": null,
                 "id": 153829399,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2023-11-15T19:00:07Z",
+                "open_issues": 5,
                 "owner": "cytodata",
                 "repo": "awesome-cytodata",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cellprofiler",
+                  "image-analysis",
+                  "machine-learning",
+                  "morphology"
+                ]
               },
               "first_seen": "2026-08-29T01:55:01.856Z"
             }
@@ -1911,15 +3193,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:55:01.856Z",
+    "last_updated": "2026-08-29T04:54:11.212Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.",
+      "homepage": null,
       "id": 472116111,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-14T14:38:05Z",
+      "open_issues": 0,
       "owner": "hallvaaw",
       "repo": "awesome-biological-image-analysis",
-      "stars": 193
+      "stars": 193,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bioimage-analysis",
+        "biology",
+        "cellprofiler",
+        "image-analysis",
+        "image-processing",
+        "imagej",
+        "imaging",
+        "microscopy",
+        "segmentation"
+      ]
     },
     "original_repository_sha": "c1a3c6ddef25c1906e61a6496d7fcf7c89e115ca",
     "enhanced_repository": "enhansome/enhansome-biological-image-analysis",

@@ -31,9 +31,9 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## General image analysis software
 
-* [OpenCV](https://github.com/opencv/opencv) ⭐ 90,637 | 🐛 2,756 | 🌐 C++ | 📅 2026-08-28 - Open source computer vision and machine learning software library.
-* [Scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,578 | 🐛 946 | 🌐 Python | 📅 2026-08-26 - Collection of algorithms for image processing.
-* [Napari](https://github.com/napari/napari) ⭐ 2,748 | 🐛 1,234 | 🌐 Python | 📅 2026-08-25 - Fast, interactive, multi-dimensional image viewer for Python.
+* [OpenCV](https://github.com/opencv/opencv) ⭐ 90,640 | 🐛 2,756 | 🌐 C++ | 📅 2026-08-28 - Open source computer vision and machine learning software library.
+* [Scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,579 | 🐛 946 | 🌐 Python | 📅 2026-08-26 - Collection of algorithms for image processing.
+* [Napari](https://github.com/napari/napari) ⭐ 2,749 | 🐛 1,234 | 🌐 Python | 📅 2026-08-25 - Fast, interactive, multi-dimensional image viewer for Python.
 * [3D Slicer](https://github.com/Slicer/Slicer) ⭐ 2,598 | 🐛 665 | 🌐 C++ | 📅 2026-08-26 - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research.
 * [ImageJ2](https://github.com/imagej/imagej2) ⭐ 1,400 | 🐛 134 | 🌐 Java | 📅 2026-08-07 - A Rewrite of ImageJ for multidimensional image data, with a focus on scientific imaging.
 * [ImagePy](https://github.com/Image-Py/imagepy) ⭐ 1,363 | 🐛 58 | 🌐 Python | 📅 2024-02-21 - Open source image processing framework written in Python.
