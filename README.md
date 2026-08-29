@@ -31,14 +31,14 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## General image analysis software
 
-* [OpenCV](https://github.com/opencv/opencv) ⭐ 90,640 | 🐛 2,756 | 🌐 C++ | 📅 2026-08-28 - Open source computer vision and machine learning software library.
-* [Scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,579 | 🐛 946 | 🌐 Python | 📅 2026-08-26 - Collection of algorithms for image processing.
-* [Napari](https://github.com/napari/napari) ⭐ 2,749 | 🐛 1,234 | 🌐 Python | 📅 2026-08-25 - Fast, interactive, multi-dimensional image viewer for Python.
-* [3D Slicer](https://github.com/Slicer/Slicer) ⭐ 2,598 | 🐛 665 | 🌐 C++ | 📅 2026-08-26 - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research.
+* [OpenCV](https://github.com/opencv/opencv) ⭐ 90,638 | 🐛 2,754 | 🌐 C++ | 📅 2026-08-29 - Open source computer vision and machine learning software library.
+* [Scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,579 | 🐛 947 | 🌐 Python | 📅 2026-08-26 - Collection of algorithms for image processing.
+* [Napari](https://github.com/napari/napari) ⭐ 2,749 | 🐛 1,235 | 🌐 Python | 📅 2026-08-25 - Fast, interactive, multi-dimensional image viewer for Python.
+* [3D Slicer](https://github.com/Slicer/Slicer) ⭐ 2,599 | 🐛 664 | 🌐 C++ | 📅 2026-08-29 - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research.
 * [ImageJ2](https://github.com/imagej/imagej2) ⭐ 1,400 | 🐛 134 | 🌐 Java | 📅 2026-08-07 - A Rewrite of ImageJ for multidimensional image data, with a focus on scientific imaging.
 * [ImagePy](https://github.com/Image-Py/imagepy) ⭐ 1,363 | 🐛 58 | 🌐 Python | 📅 2024-02-21 - Open source image processing framework written in Python.
 * [CellProfiler](https://github.com/CellProfiler/CellProfiler) ⭐ 1,135 | 🐛 305 | 🌐 Python | 📅 2026-08-28 - Open-source software helping biologists turn images into cell measurements.
-* [Fiji](https://github.com/fiji/fiji) ⭐ 1,012 | 🐛 138 | 🌐 Shell | 📅 2026-07-18 - A "batteries-included" distribution of ImageJ — a popular, free scientific image processing application.
+* [Fiji](https://github.com/fiji/fiji) ⭐ 1,011 | 🐛 138 | 🌐 Shell | 📅 2026-07-18 - A "batteries-included" distribution of ImageJ — a popular, free scientific image processing application.
 * [ImageJ](https://github.com/imagej/ImageJ) ⭐ 781 | 🐛 89 | 🌐 Java | 📅 2026-07-22 - Public domain software for processing and analyzing scientific images.
 * [Ilastik](https://github.com/ilastik/ilastik) ⭐ 405 | 🐛 570 | 🌐 Python | 📅 2026-08-27 - Simple, user-friendly tool for interactive image classification, segmentation and analysis.
 * [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) ⭐ 200 | 🐛 65 | 🌐 Python | 📅 2026-08-27 - A GUI-based Python framework for segmentation, tracking, cell cycle annotations and quantification of microscopy data.
@@ -106,7 +106,7 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## Plant science
 
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 819 | 🐛 134 | 🌐 Python | 📅 2026-08-25 - Open-source image analysis software package targeted for plant phenotyping.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 819 | 🐛 135 | 🌐 Python | 📅 2026-08-25 - Open-source image analysis software package targeted for plant phenotyping.
 * [PlantSeg](https://github.com/hci-unihd/plant-seg) ⭐ 130 | 🐛 31 | 🌐 Python | 📅 2026-08-03 - Tool for cell instance aware segmentation in densely packed 3D volumetric images.
 * [RootPainter](https://github.com/Abe404/root_painter) ⭐ 82 | 🐛 40 | 🌐 Python | 📅 2026-07-03 - Deep learning segmentation of biological images with corrective annotation.
 * [Aradeepopsis](https://github.com/Gregor-Mendel-Institute/aradeepopsis) ⭐ 52 | 🐛 4 | 🌐 Nextflow | 📅 2025-05-26 - A versatile, fully open-source pipeline to extract phenotypic measurements from plant images.
@@ -185,7 +185,7 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## Other
 
-* [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,083 | 🐛 101 | 🌐 C++ | 📅 2026-08-29 - Open-source multi-dimensional image analysis in Python, R, Java, C#, Lua, Ruby, TCL and C++.
+* [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,083 | 🐛 98 | 🌐 C++ | 📅 2026-08-29 - Open-source multi-dimensional image analysis in Python, R, Java, C#, Lua, Ruby, TCL and C++.
 * [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) ⭐ 649 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2026-03-29 - Google Colab to develop a free and open-source toolbox for deep-Learning in microscopy.
 * [Neurite](https://github.com/adalca/neurite) ⭐ 375 | 🐛 20 | 🌐 Python | 📅 2026-08-24 - Neural networks toolbox focused on medical image analysis.
 * [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio) ⚠️ Archived - Image reading, metadata conversion, and image writing for nicroscopy images in Python.
@@ -194,7 +194,7 @@ Biological image analysis aims to increase our understanding of biology through 
 * [Pycytominer](https://github.com/cytomining/pycytominer) ⭐ 144 | 🐛 44 | 🌐 Python | 📅 2026-08-27 - Data processing functions for profiling perturbations.
 * [Pyotf](https://github.com/david-hoffman/pyotf) ⭐ 86 | 🐛 7 | 🌐 Python | 📅 2024-04-08 - A simulation software package for modelling optical transfer functions (OTF)/point spread functions (PSF) of optical microscopes written in Python.
 * [Nd2reader](https://github.com/Open-Science-Tools/nd2reader) ⭐ 49 | 🐛 29 | 🌐 Python | 📅 2025-01-15 - A pure-Python package that reads images produced by NIS Elements 4.0+.
-* [ZetaStitcher](https://github.com/lens-biophotonics/ZetaStitcher) ⭐ 47 | 🐛 5 | 🌐 Python | 📅 2025-11-13 - Tool designed to stitch large volumetric images such as those produced by light-sheet fluorescence microscopes.
+* [ZetaStitcher](https://github.com/lens-biophotonics/ZetaStitcher) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2025-11-13 - Tool designed to stitch large volumetric images such as those produced by light-sheet fluorescence microscopes.
 * [NEFI2](https://github.com/05dirnbe/nefi) ⭐ 40 | 🐛 26 | 🌐 Python | 📅 2021-05-13 - Python tool created to extract networks from images.
 * [Napari-aicsimageio](https://github.com/AllenCellModeling/napari-aicsimageio) ⚠️ Archived - Multiple file format reading directly into napari using pure Python.
 * [Quanfima](https://github.com/rshkarin/quanfima) ⭐ 30 | 🐛 6 | 🌐 Python | 📅 2024-02-03 - Quantitative Analysis of Fibrous Materials: A collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.
