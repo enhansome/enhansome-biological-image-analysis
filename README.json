@@ -15,11 +15,11 @@
             "id": 5108051,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T11:13:50Z",
-            "open_issues": 2754,
+            "last_commit": "2026-08-30T11:35:12Z",
+            "open_issues": 2755,
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90638,
+            "stars": 90647,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -43,7 +43,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-26T21:40:54Z",
-            "open_issues": 947,
+            "open_issues": 952,
             "owner": "scikit-image",
             "repo": "scikit-image",
             "stars": 6579,
@@ -68,10 +68,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T17:13:28Z",
-            "open_issues": 1235,
+            "open_issues": 1234,
             "owner": "napari",
             "repo": "napari",
-            "stars": 2749,
+            "stars": 2750,
             "topics": [
               "napari",
               "numpy",
@@ -93,11 +93,11 @@
             "id": 246939908,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T12:35:45Z",
+            "last_commit": "2026-08-30T09:46:18Z",
             "open_issues": 664,
             "owner": "Slicer",
             "repo": "Slicer",
-            "stars": 2599,
+            "stars": 2603,
             "topics": [
               "3d-printing",
               "3d-slicer",
@@ -139,7 +139,7 @@
             "open_issues": 134,
             "owner": "imagej",
             "repo": "imagej2",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "computer-vision",
               "image-processing"
@@ -163,7 +163,7 @@
             "open_issues": 58,
             "owner": "Image-Py",
             "repo": "imagepy",
-            "stars": 1363,
+            "stars": 1362,
             "topics": [
               "imagej",
               "opencv",
@@ -210,7 +210,7 @@
             "open_issues": 138,
             "owner": "fiji",
             "repo": "fiji",
-            "stars": 1011,
+            "stars": 1012,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
@@ -386,7 +386,7 @@
             "open_issues": 67,
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2332,
+            "stars": 2333,
             "topics": [
               "cell-biology",
               "cell-segmentation",
@@ -411,7 +411,7 @@
             "open_issues": 70,
             "owner": "stardist",
             "repo": "stardist",
-            "stars": 1257,
+            "stars": 1256,
             "topics": [
               "bioimage-analysis",
               "cell-segmentation",
@@ -456,7 +456,7 @@
             "id": 635751761,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:25:00Z",
+            "last_commit": "2026-08-30T20:24:52Z",
             "open_issues": 72,
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
@@ -490,7 +490,7 @@
             "id": 289306932,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T10:12:58Z",
+            "last_commit": "2026-08-30T20:54:57Z",
             "open_issues": 97,
             "owner": "scverse",
             "repo": "squidpy",
@@ -2541,7 +2541,7 @@
             "id": 1069177,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T14:44:41Z",
+            "last_commit": "2026-08-30T11:52:45Z",
             "open_issues": 98,
             "owner": "SimpleITK",
             "repo": "SimpleITK",
@@ -3193,7 +3193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:12:10.362Z",
+    "last_updated": "2026-08-30T21:32:29.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.",
