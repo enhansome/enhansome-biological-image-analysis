@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T17:49:54Z",
-            "open_issues": 2762,
+            "open_issues": 2770,
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 90809,
+            "stars": 90819,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -68,10 +68,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-07T18:02:22Z",
-            "open_issues": 1251,
+            "open_issues": 1252,
             "owner": "napari",
             "repo": "napari",
-            "stars": 2757,
+            "stars": 2758,
             "topics": [
               "napari",
               "numpy",
@@ -139,7 +139,7 @@
             "open_issues": 134,
             "owner": "imagej",
             "repo": "imagej2",
-            "stars": 1404,
+            "stars": 1405,
             "topics": [
               "computer-vision",
               "image-processing"
@@ -186,7 +186,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T15:33:49Z",
-            "open_issues": 305,
+            "open_issues": 306,
             "owner": "CellProfiler",
             "repo": "CellProfiler",
             "stars": 1136,
@@ -231,7 +231,7 @@
             "open_issues": 89,
             "owner": "imagej",
             "repo": "ImageJ",
-            "stars": 783,
+            "stars": 784,
             "topics": [
               "computer-vision",
               "image-processing"
@@ -252,7 +252,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T08:42:32Z",
-            "open_issues": 569,
+            "open_issues": 572,
             "owner": "ilastik",
             "repo": "ilastik",
             "stars": 407,
@@ -386,7 +386,7 @@
             "open_issues": 69,
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2357,
+            "stars": 2358,
             "topics": [
               "cell-biology",
               "cell-segmentation",
@@ -411,7 +411,7 @@
             "open_issues": 70,
             "owner": "stardist",
             "repo": "stardist",
-            "stars": 1260,
+            "stars": 1261,
             "topics": [
               "bioimage-analysis",
               "cell-segmentation",
@@ -456,7 +456,7 @@
             "id": 635751761,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-12T15:34:37Z",
+            "last_commit": "2026-09-13T16:21:28Z",
             "open_issues": 72,
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
@@ -491,7 +491,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-10T18:39:27Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "scverse",
             "repo": "squidpy",
             "stars": 598,
@@ -948,6 +948,34 @@
         },
         {
           "node_type": "item",
+          "title": "Classpose",
+          "description": "A foundation model-driven whole slide image-scale cell phenotyping method with QuPath integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A foundation model-driven whole slide image-scale cell phenotyping method with QuPath integration Resources",
+            "homepage": null,
+            "id": 1121218910,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-07-28T13:55:31Z",
+            "open_issues": 3,
+            "owner": "sohmandal",
+            "repo": "classpose",
+            "stars": 37,
+            "topics": [
+              "bioimage-analysis",
+              "cell-classification",
+              "computer-vision",
+              "digital-pathology",
+              "foundation-models",
+              "microscopy"
+            ]
+          },
+          "first_seen": "2026-08-29T01:55:01.856Z"
+        },
+        {
+          "node_type": "item",
           "title": "PartSeg",
           "description": "A GUI and a library for segmentation algorithms.",
           "children": [],
@@ -966,34 +994,6 @@
             "topics": [
               "bioimage-analysis",
               "napari"
-            ]
-          },
-          "first_seen": "2026-08-29T01:55:01.856Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Classpose",
-          "description": "A foundation model-driven whole slide image-scale cell phenotyping method with QuPath integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A foundation model-driven whole slide image-scale cell phenotyping method with QuPath integration Resources",
-            "homepage": null,
-            "id": 1121218910,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-28T13:55:31Z",
-            "open_issues": 3,
-            "owner": "sohmandal",
-            "repo": "classpose",
-            "stars": 36,
-            "topics": [
-              "bioimage-analysis",
-              "cell-classification",
-              "computer-vision",
-              "digital-pathology",
-              "foundation-models",
-              "microscopy"
             ]
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
@@ -1129,7 +1129,7 @@
             "open_issues": 238,
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1395,
+            "stars": 1425,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
@@ -2545,7 +2545,7 @@
             "open_issues": 102,
             "owner": "SimpleITK",
             "repo": "SimpleITK",
-            "stars": 1085,
+            "stars": 1084,
             "topics": [
               "c-plus-plus",
               "csharp",
@@ -2599,7 +2599,7 @@
             "id": 84505424,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T23:29:07Z",
+            "last_commit": "2026-09-13T02:03:43Z",
             "open_issues": 20,
             "owner": "adalca",
             "repo": "neurite",
@@ -2892,7 +2892,7 @@
             "id": 54976745,
             "language": "Java",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-11T16:22:11Z",
+            "last_commit": "2026-09-13T09:59:45Z",
             "open_issues": 32,
             "owner": "bonej-org",
             "repo": "BoneJ2",
@@ -3193,7 +3193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T20:56:29.649Z",
+    "last_updated": "2026-09-13T21:07:44.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.",
