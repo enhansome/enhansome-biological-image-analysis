@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T18:08:45Z",
-            "open_issues": 2824,
+            "open_issues": 2848,
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 91205,
+            "stars": 91206,
             "topics": [
               "c-plus-plus",
               "computer-vision",
@@ -43,10 +43,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T15:26:00Z",
-            "open_issues": 956,
+            "open_issues": 957,
             "owner": "scikit-image",
             "repo": "scikit-image",
-            "stars": 6613,
+            "stars": 6614,
             "topics": [
               "computer-vision",
               "image-processing",
@@ -68,10 +68,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-16T13:06:53Z",
-            "open_issues": 1306,
+            "open_issues": 1310,
             "owner": "napari",
             "repo": "napari",
-            "stars": 2781,
+            "stars": 2782,
             "topics": [
               "napari",
               "numpy",
@@ -93,11 +93,11 @@
             "id": 246939908,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T20:14:23Z",
-            "open_issues": 672,
+            "last_commit": "2026-10-17T08:16:24Z",
+            "open_issues": 659,
             "owner": "Slicer",
             "repo": "Slicer",
-            "stars": 2665,
+            "stars": 2668,
             "topics": [
               "3d-printing",
               "3d-slicer",
@@ -139,7 +139,7 @@
             "open_issues": 134,
             "owner": "imagej",
             "repo": "imagej2",
-            "stars": 1411,
+            "stars": 1412,
             "topics": [
               "computer-vision",
               "image-processing"
@@ -185,11 +185,11 @@
             "id": 1571820,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T20:46:10Z",
-            "open_issues": 303,
+            "last_commit": "2026-10-16T22:01:22Z",
+            "open_issues": 300,
             "owner": "CellProfiler",
             "repo": "CellProfiler",
-            "stars": 1137,
+            "stars": 1138,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
@@ -255,7 +255,7 @@
             "open_issues": 571,
             "owner": "ilastik",
             "repo": "ilastik",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "ilastik",
               "machine-learning",
@@ -278,7 +278,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-16T18:06:15Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "SchmollerLab",
             "repo": "Cell_ACDC",
             "stars": 202,
@@ -731,7 +731,7 @@
             "id": 660312190,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T23:55:39Z",
+            "last_commit": "2026-10-17T01:12:46Z",
             "open_issues": 86,
             "owner": "dcjones",
             "repo": "proseg",
@@ -908,7 +908,7 @@
             "open_issues": 4,
             "owner": "mahmoodlab",
             "repo": "MAPS",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "cell-annotation",
               "mpif",
@@ -1129,7 +1129,7 @@
             "open_issues": 244,
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1563,
+            "stars": 1564,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:01.856Z"
@@ -1538,8 +1538,8 @@
             "id": 17755890,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-16T16:07:33Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-17T20:48:18Z",
+            "open_issues": 53,
             "owner": "danforthcenter",
             "repo": "plantcv",
             "stars": 834,
@@ -2114,7 +2114,7 @@
             "open_issues": 20,
             "owner": "trackmate-sc",
             "repo": "TrackMate",
-            "stars": 243,
+            "stars": 244,
             "topics": [
               "fiji-plugin",
               "image-analysis",
@@ -3193,7 +3193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:42:17.619Z",
+    "last_updated": "2026-10-17T20:56:55.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.",
